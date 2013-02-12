@@ -1,0 +1,921 @@
+ID  | Date        | Time     | Name             | Type                        | Event
+1   | Nov-08-2011 | 04:33:24 | System Event Log | Event Logging Disabled      | Log Area Reset/Cleared
+2   | Nov-10-2011 | 03:16:57 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+3   | Nov-10-2011 | 03:16:57 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+4   | Nov-10-2011 | 02:17:16 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+5   | Nov-10-2011 | 03:17:15 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+6   | Nov-10-2011 | 03:17:15 | Button           | Button/Switch               | Power Button pressed
+7   | Nov-10-2011 | 03:17:18 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 01h
+8   | Nov-10-2011 | 03:17:19 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 01h
+9   | Nov-10-2011 | 03:17:19 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 01h
+10  | Nov-10-2011 | 03:17:20 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 01h
+11  | Nov-10-2011 | 03:17:27 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+12  | Nov-10-2011 | 03:17:28 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+13  | Nov-10-2011 | 03:18:00 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+14  | Nov-10-2011 | 05:12:49 | Button           | Button/Switch               | Power Button pressed
+15  | Nov-10-2011 | 05:12:57 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+16  | Nov-10-2011 | 05:12:58 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+17  | Nov-10-2011 | 05:12:58 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+18  | Nov-10-2011 | 05:33:40 | P1 Status        | Processor                   | Processor Presence detected
+19  | Nov-10-2011 | 05:33:40 | P2 Status        | Processor                   | Processor Presence detected
+20  | Nov-10-2011 | 05:33:44 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 01h
+21  | Nov-10-2011 | 05:33:47 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+22  | Nov-10-2011 | 05:33:47 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+23  | Nov-10-2011 | 05:33:55 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #116
+24  | Nov-10-2011 | 05:33:55 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #117
+25  | Nov-10-2011 | 05:34:02 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #34
+26  | Nov-10-2011 | 05:34:20 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+27  | Nov-10-2011 | 05:35:12 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #120
+28  | Nov-10-2011 | 05:35:12 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #121
+29  | Nov-10-2011 | 07:09:43 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 01h
+30  | Nov-10-2011 | 07:09:43 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 01h
+31  | Nov-10-2011 | 07:09:51 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+32  | Nov-10-2011 | 07:09:52 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+33  | Nov-10-2011 | 07:10:20 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+34  | Nov-17-2011 | 02:19:24 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 01h
+35  | Nov-17-2011 | 02:19:25 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 01h
+36  | Nov-17-2011 | 02:19:32 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+37  | Nov-17-2011 | 02:19:32 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+38  | Nov-17-2011 | 02:20:18 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+39  | Nov-23-2011 | 06:52:53 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 01h
+40  | Nov-23-2011 | 06:52:54 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 01h
+41  | Nov-23-2011 | 06:53:01 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+42  | Nov-23-2011 | 06:53:17 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+43  | Nov-23-2011 | 06:53:45 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+44  | Dec-01-2011 | 02:13:55 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 01h
+45  | Dec-01-2011 | 02:13:56 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 01h
+46  | Dec-01-2011 | 02:14:03 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+47  | Dec-01-2011 | 02:14:03 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+48  | Dec-01-2011 | 02:14:52 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+49  | Dec-01-2011 | 03:04:42 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 01h
+50  | Dec-01-2011 | 03:04:43 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 01h
+51  | Dec-01-2011 | 03:04:50 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+52  | Dec-01-2011 | 03:04:51 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+53  | Dec-01-2011 | 03:05:19 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+54  | Dec-08-2011 | 03:03:14 | Pwr Unit Status  | Power Unit                  | Power Unit Failure detected
+55  | Dec-08-2011 | 03:03:15 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+56  | Dec-08-2011 | 03:03:15 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = 0.08 V ; Threshold = 0.96 V
+57  | Dec-08-2011 | 03:03:15 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = 0.08 V ; Threshold = 0.94 V
+58  | Dec-08-2011 | 04:04:38 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+59  | Dec-08-2011 | 04:04:38 | P1 Status        | Processor                   | Processor Presence detected
+60  | Dec-08-2011 | 04:04:38 | P2 Status        | Processor                   | Processor Presence detected
+61  | Dec-08-2011 | 04:04:39 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+62  | Dec-08-2011 | 04:04:58 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+63  | Dec-08-2011 | 04:04:58 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+64  | Dec-08-2011 | 04:05:02 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #116
+65  | Dec-08-2011 | 04:05:02 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #117
+66  | Dec-08-2011 | 04:05:10 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #34
+67  | Dec-08-2011 | 04:05:35 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+68  | Dec-08-2011 | 04:06:20 | P1 Status        | Processor                   | Processor Presence detected
+69  | Dec-08-2011 | 04:06:20 | P2 Status        | Processor                   | Processor Presence detected
+70  | Dec-08-2011 | 04:06:35 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #34
+71  | Dec-08-2011 | 04:06:35 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #116
+72  | Dec-08-2011 | 04:06:35 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #117
+73  | Dec-08-2011 | 04:06:45 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+74  | Dec-08-2011 | 04:06:45 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+75  | Dec-08-2011 | 04:07:15 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+76  | Dec-08-2011 | 04:07:56 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #120
+77  | Dec-08-2011 | 04:07:56 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #121
+78  | Dec-08-2011 | 06:35:05 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+79  | Dec-08-2011 | 06:35:05 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+80  | Dec-08-2011 | 06:35:33 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+81  | Dec-15-2011 | 03:35:14 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+82  | Dec-15-2011 | 03:35:14 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+83  | Dec-15-2011 | 03:36:01 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+84  | Dec-20-2011 | 05:37:44 | Button           | Button/Switch               | Reset Button pressed
+85  | Dec-20-2011 | 05:37:52 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+86  | Dec-20-2011 | 05:38:05 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+87  | Dec-20-2011 | 05:38:36 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+Unknown SEL Record Type: 3h
+Unknown SEL Record Type: 3h
+90  | Dec-20-2011 | 05:43:02 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+91  | Dec-20-2011 | 05:43:03 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+92  | Dec-20-2011 | 05:44:55 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+93  | Dec-20-2011 | 05:47:27 | SPS FW Health    | OEM Reserved                | OEM Event Offset = 00h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 00h
+94  | Dec-20-2011 | 05:56:04 | Button           | Button/Switch               | Reset Button pressed
+95  | Dec-20-2011 | 05:56:05 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+96  | Dec-20-2011 | 05:56:10 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+97  | Dec-20-2011 | 05:56:34 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+98  | Dec-20-2011 | 05:56:34 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+99  | Dec-20-2011 | 05:56:50 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 40h ; OEM Event Data3 code = 85h
+100 | Dec-20-2011 | 05:56:50 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 20h ; OEM Event Data3 code = 85h
+101 | Dec-20-2011 | 05:56:50 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 43h ; OEM Event Data3 code = 85h
+102 | Dec-20-2011 | 05:56:50 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 23h ; OEM Event Data3 code = 85h
+103 | Dec-20-2011 | 05:57:08 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+104 | Dec-20-2011 | 06:03:57 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+105 | Dec-20-2011 | 06:03:57 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+106 | Dec-20-2011 | 06:04:08 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 40h ; OEM Event Data3 code = 85h
+107 | Dec-20-2011 | 06:04:08 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 20h ; OEM Event Data3 code = 85h
+108 | Dec-20-2011 | 06:04:08 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 43h ; OEM Event Data3 code = 85h
+109 | Dec-20-2011 | 06:04:08 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 23h ; OEM Event Data3 code = 85h
+110 | Dec-20-2011 | 06:04:30 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+111 | Dec-20-2011 | 06:04:36 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+112 | Dec-20-2011 | 06:04:49 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+113 | Dec-20-2011 | 06:04:50 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+114 | Dec-20-2011 | 06:07:33 | Pwr Unit Status  | Power Unit                  | Power Unit Failure detected
+115 | Dec-20-2011 | 06:07:33 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+116 | Dec-20-2011 | 06:07:33 | PS1 Status       | Power Supply                | Power Supply input lost (AC/DC)
+117 | Dec-20-2011 | 06:07:35 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+118 | Dec-20-2011 | 06:07:35 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+119 | Dec-20-2011 | 06:08:08 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+120 | Dec-20-2011 | 06:08:08 | P1 Status        | Processor                   | Processor Presence detected
+121 | Dec-20-2011 | 06:08:08 | P2 Status        | Processor                   | Processor Presence detected
+122 | Dec-20-2011 | 06:08:10 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+123 | Dec-20-2011 | 06:08:21 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+124 | Dec-20-2011 | 06:08:21 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+125 | Dec-20-2011 | 06:08:56 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+126 | Dec-20-2011 | 06:09:56 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+127 | Dec-20-2011 | 06:09:57 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+128 | Dec-20-2011 | 06:10:25 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+129 | Dec-20-2011 | 06:10:48 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+130 | Dec-20-2011 | 06:10:48 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+131 | Dec-20-2011 | 06:11:55 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+Unknown SEL Record Type: 3h
+Unknown SEL Record Type: 3h
+134 | Dec-20-2011 | 06:19:22 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+135 | Dec-20-2011 | 06:19:22 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+136 | Dec-20-2011 | 06:20:00 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+137 | Dec-26-2011 | 00:15:31 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+138 | Dec-26-2011 | 00:15:31 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+139 | Dec-26-2011 | 00:16:15 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+140 | Jan-05-2012 | 07:20:15 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+141 | Jan-05-2012 | 07:20:15 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+142 | Jan-05-2012 | 07:21:12 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+143 | Jan-12-2012 | 02:54:56 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+144 | Jan-12-2012 | 02:54:56 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+145 | Jan-12-2012 | 02:55:44 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+146 | Jan-16-2012 | 04:19:55 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+147 | Jan-16-2012 | 04:19:55 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+148 | Jan-16-2012 | 04:20:35 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+149 | Jan-16-2012 | 04:57:02 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+150 | Jan-16-2012 | 04:57:03 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+151 | Jan-16-2012 | 04:57:32 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+152 | Jan-16-2012 | 04:58:13 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+153 | Jan-16-2012 | 04:58:14 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 04h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+154 | Jan-16-2012 | 04:58:14 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+155 | Jan-16-2012 | 04:58:14 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+156 | Jan-16-2012 | 04:58:14 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+157 | Jan-16-2012 | 04:58:14 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+158 | Jan-16-2012 | 04:58:14 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+159 | Jan-16-2012 | 04:58:14 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+160 | Jan-16-2012 | 04:58:14 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+161 | Jan-16-2012 | 04:58:14 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+162 | Jan-16-2012 | 07:37:47 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+163 | Jan-16-2012 | 07:37:48 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+164 | Jan-16-2012 | 07:38:17 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+165 | Jan-16-2012 | 07:39:00 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 01h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+166 | Jan-16-2012 | 07:39:00 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+167 | Jan-16-2012 | 07:39:00 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+168 | Jan-16-2012 | 07:39:00 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 0Fh ; OEM Event Data2 code = 08h ; OEM Event Data3 code = 00h
+169 | Jan-16-2012 | 07:39:00 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 04h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+170 | Jan-16-2012 | 07:39:00 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+171 | Jan-16-2012 | 07:39:01 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+172 | Jan-16-2012 | 07:39:01 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+173 | Jan-16-2012 | 07:41:35 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 01h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+174 | Jan-16-2012 | 08:01:15 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 01h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+175 | Jan-19-2012 | 05:45:50 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+176 | Jan-19-2012 | 05:45:58 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+177 | Jan-19-2012 | 05:46:27 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+178 | Jan-19-2012 | 05:47:10 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+179 | Jan-19-2012 | 05:47:10 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 0Fh ; OEM Event Data2 code = 08h ; OEM Event Data3 code = 00h
+180 | Jan-19-2012 | 05:47:10 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+181 | Jan-19-2012 | 05:47:10 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 0Fh ; OEM Event Data2 code = 08h ; OEM Event Data3 code = 00h
+182 | Jan-19-2012 | 05:47:10 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 04h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+183 | Jan-19-2012 | 05:47:10 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 0Fh ; OEM Event Data2 code = 08h ; OEM Event Data3 code = 00h
+184 | Jan-19-2012 | 05:47:10 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 04h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+185 | Jan-19-2012 | 05:47:10 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+186 | Jan-19-2012 | 05:47:11 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+187 | Jan-19-2012 | 05:47:11 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+188 | Jan-20-2012 | 02:11:54 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+189 | Jan-20-2012 | 02:11:54 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+190 | Jan-20-2012 | 02:12:26 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+191 | Jan-20-2012 | 02:13:08 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+192 | Jan-20-2012 | 02:13:08 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 0Fh ; OEM Event Data2 code = 08h ; OEM Event Data3 code = 00h
+193 | Jan-20-2012 | 02:13:08 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 04h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+194 | Jan-20-2012 | 02:13:08 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+195 | Jan-20-2012 | 02:13:09 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+196 | Jan-20-2012 | 02:13:09 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+197 | Jan-20-2012 | 02:13:09 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+198 | Jan-20-2012 | 02:13:09 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+199 | Jan-20-2012 | 02:13:09 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+200 | Jan-20-2012 | 02:13:09 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+201 | Jan-23-2012 | 07:06:15 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+202 | Jan-23-2012 | 07:06:15 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+203 | Jan-23-2012 | 07:06:53 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+204 | Jan-23-2012 | 07:07:36 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+205 | Jan-23-2012 | 07:07:37 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+206 | Jan-23-2012 | 07:07:37 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+207 | Jan-23-2012 | 07:47:52 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+208 | Jan-23-2012 | 07:47:52 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+209 | Jan-23-2012 | 07:48:21 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 01h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+210 | Jan-23-2012 | 07:48:22 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+211 | Jan-23-2012 | 07:49:04 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+212 | Jan-23-2012 | 07:49:05 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 0Fh ; OEM Event Data2 code = 08h ; OEM Event Data3 code = 00h
+213 | Jan-23-2012 | 07:49:05 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 04h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+214 | Jan-23-2012 | 07:49:05 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+215 | Jan-23-2012 | 07:49:05 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+216 | Jan-23-2012 | 07:49:05 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 0Fh ; OEM Event Data2 code = 08h ; OEM Event Data3 code = 00h
+217 | Jan-23-2012 | 07:49:05 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+218 | Jan-23-2012 | 07:49:05 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+219 | Jan-23-2012 | 07:49:05 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+220 | Jan-26-2012 | 02:59:24 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+221 | Jan-26-2012 | 02:59:32 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+222 | Jan-26-2012 | 03:00:01 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+223 | Jan-26-2012 | 03:00:44 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+224 | Jan-26-2012 | 03:00:45 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+225 | Jan-26-2012 | 03:00:45 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+226 | Jan-26-2012 | 03:00:45 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+227 | Jan-26-2012 | 03:00:45 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+228 | Jan-26-2012 | 03:00:45 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+229 | Jan-26-2012 | 03:00:45 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+230 | Jan-26-2012 | 03:00:45 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+231 | Jan-26-2012 | 03:00:45 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+232 | Jan-26-2012 | 03:00:46 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+233 | Feb-01-2012 | 03:35:26 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+234 | Feb-01-2012 | 03:35:43 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+235 | Feb-01-2012 | 03:36:12 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+236 | Feb-01-2012 | 03:36:53 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+237 | Feb-01-2012 | 03:36:54 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+238 | Feb-01-2012 | 03:36:54 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 0Fh ; OEM Event Data2 code = 08h ; OEM Event Data3 code = 00h
+239 | Feb-01-2012 | 03:36:54 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+240 | Feb-01-2012 | 03:36:54 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+241 | Feb-01-2012 | 03:36:54 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+242 | Feb-01-2012 | 03:36:54 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 0Fh ; OEM Event Data2 code = 08h ; OEM Event Data3 code = 00h
+243 | Feb-01-2012 | 03:36:54 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 04h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+244 | Feb-01-2012 | 03:36:54 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+245 | Feb-01-2012 | 03:36:54 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+246 | Feb-02-2012 | 04:01:23 | PS1 Status       | Power Supply                | Predictive Failure ; OEM Event Data2 code = 06h ; OEM Event Data3 code = 30h
+247 | Feb-02-2012 | 04:01:23 | Pwr Unit Status  | Power Unit                  | Power Unit Failure detected
+248 | Feb-02-2012 | 04:01:24 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+249 | Feb-02-2012 | 04:01:24 | PS1 Status       | Power Supply                | Predictive Failure ; OEM Event Data2 code = 06h ; OEM Event Data3 code = 30h
+250 | Feb-02-2012 | 04:01:24 | PS1 Status       | Power Supply                | Power Supply input lost (AC/DC)
+251 | Feb-02-2012 | 04:01:24 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+252 | Feb-02-2012 | 04:01:24 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+253 | Feb-02-2012 | 04:04:10 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+254 | Feb-02-2012 | 04:04:10 | P1 Status        | Processor                   | Processor Presence detected
+255 | Feb-02-2012 | 04:04:10 | P2 Status        | Processor                   | Processor Presence detected
+256 | Feb-02-2012 | 04:04:11 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+257 | Feb-02-2012 | 04:04:23 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+258 | Feb-02-2012 | 04:04:23 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+259 | Feb-02-2012 | 04:04:56 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+260 | Feb-02-2012 | 04:05:39 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+261 | Feb-02-2012 | 04:05:39 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+262 | Feb-02-2012 | 04:05:39 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+263 | Feb-02-2012 | 04:05:39 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+264 | Feb-02-2012 | 04:05:39 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+265 | Feb-02-2012 | 04:05:40 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+266 | Feb-02-2012 | 04:05:40 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+267 | Feb-02-2012 | 04:05:40 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+268 | Feb-02-2012 | 04:05:40 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+269 | Feb-02-2012 | 04:05:40 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+270 | Feb-04-2012 | 00:15:07 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+271 | Feb-04-2012 | 00:15:07 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+272 | Feb-04-2012 | 00:15:42 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+273 | Feb-04-2012 | 00:16:23 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+274 | Feb-04-2012 | 00:16:23 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+275 | Feb-04-2012 | 00:16:23 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+276 | Feb-04-2012 | 00:16:23 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 04h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+277 | Feb-04-2012 | 00:16:24 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 0Fh ; OEM Event Data2 code = 08h ; OEM Event Data3 code = 00h
+278 | Feb-04-2012 | 00:16:24 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 04h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+279 | Feb-04-2012 | 00:16:24 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 0Fh ; OEM Event Data2 code = 08h ; OEM Event Data3 code = 00h
+280 | Feb-04-2012 | 00:16:24 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+281 | Feb-04-2012 | 00:16:24 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+282 | Feb-04-2012 | 00:16:24 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+283 | Feb-09-2012 | 02:30:02 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+284 | Feb-09-2012 | 02:30:04 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+285 | Feb-09-2012 | 02:30:04 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+286 | Feb-09-2012 | 02:30:08 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+287 | Feb-09-2012 | 02:30:10 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.94 V
+288 | Feb-09-2012 | 02:30:10 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.96 V
+289 | Feb-09-2012 | 02:30:21 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+290 | Feb-09-2012 | 02:30:21 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+291 | Feb-09-2012 | 02:31:07 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+292 | Feb-09-2012 | 02:31:51 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 0Fh ; OEM Event Data2 code = 08h ; OEM Event Data3 code = 00h
+293 | Feb-09-2012 | 02:31:51 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 04h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+294 | Feb-09-2012 | 02:31:51 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 0Fh ; OEM Event Data2 code = 08h ; OEM Event Data3 code = 00h
+295 | Feb-09-2012 | 02:31:51 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 04h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+296 | Feb-09-2012 | 02:31:51 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+297 | Feb-09-2012 | 02:31:51 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+298 | Feb-09-2012 | 02:31:51 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+299 | Feb-09-2012 | 02:31:51 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+300 | Feb-09-2012 | 02:31:51 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+301 | Feb-09-2012 | 02:31:52 | PCIe Cor Sensor  | Critical Interrupt          | OEM Event Offset = 02h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 18h
+302 | Feb-09-2012 | 03:09:38 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+303 | Feb-09-2012 | 03:09:38 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+304 | Feb-09-2012 | 03:10:09 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+305 | Feb-16-2012 | 02:25:58 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+306 | Feb-16-2012 | 02:26:17 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+307 | Feb-16-2012 | 02:26:46 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+308 | Feb-22-2012 | 01:33:09 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+309 | Feb-22-2012 | 01:33:26 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+310 | Feb-22-2012 | 01:33:55 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+311 | Feb-24-2012 | 14:50:49 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+312 | Feb-24-2012 | 14:50:49 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+313 | Feb-24-2012 | 14:51:25 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+314 | Feb-28-2012 | 01:37:24 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+315 | Feb-28-2012 | 01:37:24 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+316 | Feb-28-2012 | 01:38:02 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+317 | Mar-01-2012 | 04:07:23 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+318 | Mar-01-2012 | 04:07:23 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+319 | Mar-01-2012 | 04:07:59 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+320 | Mar-08-2012 | 02:31:52 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+321 | Mar-08-2012 | 02:32:11 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+322 | Mar-08-2012 | 02:32:40 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+323 | Mar-15-2012 | 02:40:16 | SPS FW Health    | OEM Reserved                | OEM Event Offset = 00h ; OEM Event Data2 code = 00h ; OEM Event Data3 code = 00h
+324 | Mar-15-2012 | 02:40:17 | SPS FW Health    | OEM Reserved                | OEM Event Offset = 00h ; OEM Event Data2 code = 06h ; OEM Event Data3 code = 00h
+325 | Mar-15-2012 | 02:40:31 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #116
+326 | Mar-15-2012 | 02:40:31 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #117
+327 | Mar-15-2012 | 02:40:35 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #34
+Unknown SEL Record Type: 3h
+Unknown SEL Record Type: 3h
+330 | Mar-15-2012 | 05:43:25 | Button           | Button/Switch               | Reset Button pressed
+331 | Mar-15-2012 | 05:43:26 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+332 | Mar-15-2012 | 05:43:27 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+333 | Mar-15-2012 | 05:43:27 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+334 | Mar-15-2012 | 05:43:31 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+335 | Mar-15-2012 | 05:43:37 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+336 | Mar-15-2012 | 05:43:37 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+337 | Mar-15-2012 | 05:43:37 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+338 | Mar-15-2012 | 05:43:37 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+339 | Mar-15-2012 | 05:43:39 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.94 V
+340 | Mar-15-2012 | 05:43:39 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.96 V
+341 | Mar-15-2012 | 05:43:53 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+342 | Mar-15-2012 | 05:43:53 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+343 | Mar-15-2012 | 05:44:36 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 40h ; OEM Event Data3 code = 85h
+344 | Mar-15-2012 | 05:44:36 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 20h ; OEM Event Data3 code = 85h
+345 | Mar-15-2012 | 05:44:36 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 43h ; OEM Event Data3 code = 85h
+346 | Mar-15-2012 | 05:44:36 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 23h ; OEM Event Data3 code = 85h
+347 | Mar-15-2012 | 05:46:13 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+348 | Mar-15-2012 | 05:46:19 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+349 | Mar-15-2012 | 05:46:29 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+350 | Mar-15-2012 | 05:46:29 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+351 | Mar-15-2012 | 05:46:53 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+352 | Mar-20-2012 | 02:51:31 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+353 | Mar-20-2012 | 02:51:31 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+354 | Mar-20-2012 | 02:52:05 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+355 | Mar-22-2012 | 02:54:39 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+356 | Mar-22-2012 | 02:54:39 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+357 | Mar-22-2012 | 02:55:05 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+358 | Mar-22-2012 | 03:23:41 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+359 | Mar-22-2012 | 03:23:41 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+360 | Mar-22-2012 | 03:24:02 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+361 | Mar-22-2012 | 22:17:32 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+362 | Mar-22-2012 | 22:17:35 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+363 | Mar-22-2012 | 22:17:55 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+364 | Mar-29-2012 | 02:18:34 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+365 | Mar-29-2012 | 02:18:51 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+366 | Mar-29-2012 | 02:19:11 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+367 | Mar-30-2012 | 05:26:52 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+368 | Mar-30-2012 | 05:26:52 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+369 | Mar-30-2012 | 05:27:16 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+370 | Apr-01-2012 | 07:02:59 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+371 | Apr-01-2012 | 07:02:59 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+372 | Apr-01-2012 | 07:03:25 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+373 | Apr-05-2012 | 02:11:59 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+374 | Apr-05-2012 | 02:12:10 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+375 | Apr-05-2012 | 02:12:30 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+376 | Apr-11-2012 | 22:46:07 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+377 | Apr-11-2012 | 22:46:26 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+378 | Apr-11-2012 | 22:46:46 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+379 | Apr-12-2012 | 02:28:04 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+380 | Apr-12-2012 | 02:28:05 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+381 | Apr-12-2012 | 02:28:25 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+382 | Apr-19-2012 | 02:18:22 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+383 | Apr-19-2012 | 02:18:42 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+384 | Apr-19-2012 | 02:19:02 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+385 | Apr-26-2012 | 02:08:58 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+386 | Apr-26-2012 | 02:08:58 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+387 | Apr-26-2012 | 02:09:38 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+388 | Apr-30-2012 | 02:29:40 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+389 | Apr-30-2012 | 02:29:41 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+390 | Apr-30-2012 | 02:29:41 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+391 | Apr-30-2012 | 02:29:47 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = 1.08 V ; Threshold = 0.94 V
+392 | Apr-30-2012 | 02:29:47 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = 1.08 V ; Threshold = 0.96 V
+393 | Apr-30-2012 | 03:25:42 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+394 | Apr-30-2012 | 03:25:42 | Button           | Button/Switch               | Power Button pressed
+395 | Apr-30-2012 | 03:25:52 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+396 | Apr-30-2012 | 03:25:52 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+397 | Apr-30-2012 | 03:26:28 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+398 | May-03-2012 | 02:11:13 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+399 | May-03-2012 | 02:11:16 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+400 | May-03-2012 | 02:11:16 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+401 | May-03-2012 | 02:11:22 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.94 V
+402 | May-03-2012 | 02:11:22 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.96 V
+403 | May-03-2012 | 03:26:17 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+404 | May-03-2012 | 03:26:17 | Button           | Button/Switch               | Power Button pressed
+405 | May-03-2012 | 03:26:27 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+406 | May-03-2012 | 03:26:27 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+407 | May-03-2012 | 03:27:00 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+408 | May-10-2012 | 02:20:21 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+409 | May-10-2012 | 02:20:21 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+410 | May-10-2012 | 02:21:00 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+411 | May-16-2012 | 22:07:40 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+412 | May-16-2012 | 22:07:40 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+413 | May-16-2012 | 22:08:19 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+414 | May-17-2012 | 03:08:55 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+415 | May-17-2012 | 03:08:55 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+416 | May-17-2012 | 03:09:16 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+417 | May-17-2012 | 03:14:20 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+418 | May-17-2012 | 03:14:21 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+419 | May-17-2012 | 03:14:41 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+420 | May-25-2012 | 07:06:46 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+421 | May-25-2012 | 08:07:08 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+422 | May-25-2012 | 08:07:08 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+423 | May-28-2012 | 00:21:20 | PS1 Status       | Power Supply                | Power Supply input lost (AC/DC)
+424 | May-28-2012 | 10:35:08 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+425 | May-28-2012 | 10:35:08 | P1 Status        | Processor                   | Processor Presence detected
+426 | May-28-2012 | 10:35:08 | P2 Status        | Processor                   | Processor Presence detected
+427 | May-28-2012 | 10:35:13 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 04h
+428 | May-28-2012 | 10:35:50 | Physical Scrty   | Physical Security           | LAN Leash Lost
+429 | May-28-2012 | 10:35:56 | Physical Scrty   | Physical Security           | LAN Leash Lost
+430 | May-28-2012 | 10:50:46 | PS1 Status       | Power Supply                | Configuration error ; OEM Event Data2 code = 04h
+431 | May-29-2012 | 05:40:50 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+432 | May-29-2012 | 05:40:50 | Button           | Button/Switch               | Power Button pressed
+433 | May-29-2012 | 05:41:00 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+434 | May-29-2012 | 05:41:00 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+435 | May-29-2012 | 05:41:28 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+436 | Jun-04-2012 | 02:50:57 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+437 | Jun-04-2012 | 02:51:11 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+438 | Jun-04-2012 | 02:51:11 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+439 | Jun-04-2012 | 03:01:16 | PS1 Status       | Power Supply                | Power Supply input lost (AC/DC)
+440 | Sep-21-2012 | 04:31:25 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+441 | Sep-21-2012 | 04:31:25 | P1 Status        | Processor                   | Processor Presence detected
+442 | Sep-21-2012 | 04:31:25 | P2 Status        | Processor                   | Processor Presence detected
+443 | Sep-21-2012 | 04:31:48 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+444 | Sep-21-2012 | 04:31:48 | Button           | Button/Switch               | Power Button pressed
+445 | Sep-21-2012 | 04:34:48 | PS1 Status       | Power Supply                | Power Supply input lost (AC/DC)
+446 | Sep-21-2012 | 04:34:48 | Pwr Unit Status  | Power Unit                  | Power Unit Failure detected
+447 | Sep-21-2012 | 04:34:49 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+448 | Sep-21-2012 | 04:34:49 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+449 | Sep-21-2012 | 04:34:49 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+450 | Sep-21-2012 | 04:35:21 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+451 | Sep-21-2012 | 04:35:21 | P1 Status        | Processor                   | Processor Presence detected
+452 | Sep-21-2012 | 04:35:21 | P2 Status        | Processor                   | Processor Presence detected
+453 | Sep-21-2012 | 04:35:22 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+454 | Sep-21-2012 | 04:41:58 | IPMI Watchdog    | Watchdog 2                  | Hard Reset ; Timer use at expiration = BIOS FRB2 ; Interrupt type = none
+455 | Sep-21-2012 | 04:41:59 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+456 | Sep-21-2012 | 04:42:03 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+457 | Sep-21-2012 | 04:42:31 | Button           | Button/Switch               | Power Button pressed
+458 | Sep-21-2012 | 04:42:36 | Button           | Button/Switch               | Power Button pressed
+459 | Sep-21-2012 | 04:42:41 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+460 | Sep-21-2012 | 04:42:41 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+461 | Sep-21-2012 | 04:42:41 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+462 | Sep-21-2012 | 04:42:48 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = 1.06 V ; Threshold = 0.94 V
+463 | Sep-21-2012 | 04:42:48 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = 1.06 V ; Threshold = 0.96 V
+464 | Sep-21-2012 | 04:43:36 | PS1 Status       | Power Supply                | Power Supply input lost (AC/DC)
+465 | Sep-21-2012 | 04:48:30 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+466 | Sep-21-2012 | 04:48:30 | P1 Status        | Processor                   | Processor Presence detected
+467 | Sep-21-2012 | 04:48:30 | P2 Status        | Processor                   | Processor Presence detected
+468 | Sep-21-2012 | 04:50:13 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+469 | Sep-21-2012 | 04:50:13 | Button           | Button/Switch               | Power Button pressed
+470 | Sep-21-2012 | 04:50:26 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+471 | Sep-21-2012 | 04:50:26 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+472 | Sep-21-2012 | 04:50:39 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+473 | Sep-21-2012 | 06:01:21 | Button           | Button/Switch               | Power Button pressed
+474 | Sep-21-2012 | 06:01:28 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+475 | Sep-21-2012 | 06:01:28 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+476 | Sep-21-2012 | 06:01:47 | SPS FW Health    | OEM Reserved                | OEM Event Offset = 00h ; OEM Event Data2 code = 04h ; OEM Event Data3 code = 05h
+477 | Sep-21-2012 | 06:01:48 | Button           | Button/Switch               | Power Button pressed
+478 | Sep-21-2012 | 06:03:19 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #120
+479 | Sep-21-2012 | 06:03:19 | BMC FW Health    | Management Subsystem Health | sensor failure ; Sensor Number #121
+480 | Sep-21-2012 | 06:18:46 | Button           | Button/Switch               | Power Button pressed
+481 | Sep-21-2012 | 06:18:52 | Button           | Button/Switch               | Power Button pressed
+482 | Sep-21-2012 | 06:18:56 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+483 | Sep-21-2012 | 06:18:58 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+484 | Sep-21-2012 | 06:18:58 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+485 | Sep-21-2012 | 06:19:04 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.94 V
+486 | Sep-21-2012 | 06:19:04 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.96 V
+487 | Sep-21-2012 | 06:27:57 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+488 | Sep-21-2012 | 06:27:57 | Button           | Button/Switch               | Power Button pressed
+489 | Sep-21-2012 | 06:28:10 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+490 | Sep-21-2012 | 06:28:10 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+491 | Sep-21-2012 | 06:29:00 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+492 | Sep-21-2012 | 06:29:00 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+493 | Sep-21-2012 | 06:31:01 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+494 | Sep-21-2012 | 06:31:02 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+495 | Sep-21-2012 | 06:31:02 | Button           | Button/Switch               | Power Button pressed
+496 | Sep-21-2012 | 06:31:03 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+497 | Sep-21-2012 | 06:31:10 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+498 | Sep-21-2012 | 06:31:10 | Button           | Button/Switch               | Power Button pressed
+499 | Sep-21-2012 | 06:31:22 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+500 | Sep-21-2012 | 06:31:23 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+501 | Sep-21-2012 | 06:35:11 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+502 | Sep-21-2012 | 06:35:11 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+503 | Sep-21-2012 | 06:36:49 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+504 | Sep-21-2012 | 08:46:08 | Button           | Button/Switch               | Power Button pressed
+505 | Sep-21-2012 | 09:17:53 | Button           | Button/Switch               | Power Button pressed
+506 | Sep-21-2012 | 09:36:00 | Button           | Button/Switch               | Power Button pressed
+507 | Sep-21-2012 | 09:36:04 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+508 | Sep-21-2012 | 09:36:06 | Button           | Button/Switch               | Power Button pressed
+509 | Sep-21-2012 | 09:36:07 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+510 | Sep-21-2012 | 09:36:07 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+511 | Sep-21-2012 | 09:36:11 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+512 | Sep-21-2012 | 09:36:13 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.94 V
+513 | Sep-21-2012 | 09:36:13 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.96 V
+514 | Sep-21-2012 | 09:36:24 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+515 | Sep-21-2012 | 09:36:24 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+516 | Sep-21-2012 | 09:37:32 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+517 | Sep-21-2012 | 09:38:47 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+518 | Sep-21-2012 | 09:38:47 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+519 | Sep-21-2012 | 09:38:48 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+520 | Sep-24-2012 | 02:43:29 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+521 | Sep-24-2012 | 02:43:29 | Button           | Button/Switch               | Power Button pressed
+522 | Sep-24-2012 | 02:43:37 | Exit Air Temp    | Temperature                 | Upper Non-critical - going high ; Sensor Reading = 81.00 C ; Threshold = 80.00 C
+523 | Sep-24-2012 | 02:43:38 | Exit Air Temp    | Temperature                 | Upper Non-critical - going high ; Sensor Reading = 71.00 C ; Threshold = 80.00 C
+524 | Sep-24-2012 | 02:43:41 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+525 | Sep-24-2012 | 02:43:52 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+526 | Sep-24-2012 | 02:45:00 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+527 | Sep-24-2012 | 02:53:43 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+528 | Sep-24-2012 | 02:53:43 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+529 | Sep-24-2012 | 02:55:21 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+530 | Sep-24-2012 | 03:13:05 | Physical Scrty   | Physical Security           | LAN Leash Lost
+531 | Sep-24-2012 | 03:15:09 | Physical Scrty   | Physical Security           | LAN Leash Lost
+532 | Sep-24-2012 | 03:49:49 | Button           | Button/Switch               | Power Button pressed
+533 | Sep-24-2012 | 03:49:54 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+534 | Sep-24-2012 | 03:49:54 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+535 | Sep-24-2012 | 03:49:54 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+536 | Sep-24-2012 | 03:49:56 | Button           | Button/Switch               | Power Button pressed
+537 | Sep-24-2012 | 03:50:00 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+538 | Sep-24-2012 | 03:50:01 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.94 V
+539 | Sep-24-2012 | 03:50:01 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.96 V
+540 | Sep-24-2012 | 03:50:13 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+541 | Sep-24-2012 | 03:50:14 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+542 | Sep-24-2012 | 03:52:13 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+543 | Sep-24-2012 | 03:52:13 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+544 | Sep-24-2012 | 03:53:24 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+545 | Sep-24-2012 | 03:55:28 | Button           | Button/Switch               | Power Button pressed
+546 | Sep-24-2012 | 03:55:33 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+547 | Sep-24-2012 | 03:55:34 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+548 | Sep-24-2012 | 03:55:34 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+549 | Sep-24-2012 | 03:55:40 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = 1.06 V ; Threshold = 0.94 V
+550 | Sep-24-2012 | 03:55:40 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = 1.06 V ; Threshold = 0.96 V
+551 | Sep-24-2012 | 05:52:25 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+552 | Sep-24-2012 | 05:52:25 | Button           | Button/Switch               | Power Button pressed
+553 | Sep-24-2012 | 05:52:34 | Exit Air Temp    | Temperature                 | Upper Non-critical - going high ; Sensor Reading = 82.00 C ; Threshold = 80.00 C
+554 | Sep-24-2012 | 05:52:35 | Exit Air Temp    | Temperature                 | Upper Non-critical - going high ; Sensor Reading = 72.00 C ; Threshold = 80.00 C
+555 | Sep-24-2012 | 05:52:38 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+556 | Sep-24-2012 | 05:52:39 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+557 | Sep-24-2012 | 05:53:39 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+558 | Sep-24-2012 | 05:53:39 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+559 | Sep-24-2012 | 05:54:05 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+560 | Sep-24-2012 | 05:55:43 | Button           | Button/Switch               | Power Button pressed
+561 | Sep-24-2012 | 05:55:47 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+562 | Sep-24-2012 | 05:55:50 | Button           | Button/Switch               | Power Button pressed
+563 | Sep-24-2012 | 05:55:50 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+564 | Sep-24-2012 | 05:55:50 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+565 | Sep-24-2012 | 05:55:54 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+566 | Sep-24-2012 | 05:55:56 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.94 V
+567 | Sep-24-2012 | 05:55:56 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.96 V
+568 | Sep-24-2012 | 05:56:06 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+569 | Sep-24-2012 | 05:56:07 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+570 | Sep-24-2012 | 05:56:32 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+571 | Sep-24-2012 | 06:06:41 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+572 | Sep-24-2012 | 06:06:41 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+573 | Sep-24-2012 | 06:07:07 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+574 | Sep-24-2012 | 06:09:34 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+575 | Sep-24-2012 | 06:09:34 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+576 | Sep-24-2012 | 06:09:59 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+577 | Sep-24-2012 | 06:11:25 | Button           | Button/Switch               | Reset Button pressed
+578 | Sep-24-2012 | 06:11:35 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+579 | Sep-24-2012 | 06:11:36 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+580 | Sep-24-2012 | 06:12:00 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+581 | Sep-24-2012 | 06:19:23 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+582 | Sep-24-2012 | 06:19:23 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+583 | Sep-24-2012 | 06:19:49 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+584 | Sep-24-2012 | 06:21:37 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+585 | Sep-24-2012 | 06:21:37 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+586 | Sep-24-2012 | 06:22:02 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+587 | Sep-24-2012 | 06:24:27 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+588 | Sep-24-2012 | 06:24:28 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+589 | Sep-24-2012 | 06:24:53 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+590 | Sep-24-2012 | 06:25:34 | Button           | Button/Switch               | Reset Button pressed
+591 | Sep-24-2012 | 06:25:44 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+592 | Sep-24-2012 | 06:25:44 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+593 | Sep-24-2012 | 06:26:09 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+594 | Sep-24-2012 | 06:32:13 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+595 | Sep-24-2012 | 06:32:13 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+596 | Sep-24-2012 | 06:32:38 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+597 | Sep-24-2012 | 06:34:38 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+598 | Sep-24-2012 | 06:34:38 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+599 | Sep-24-2012 | 06:35:03 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+600 | Sep-24-2012 | 06:37:41 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+601 | Sep-24-2012 | 06:37:42 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+602 | Sep-24-2012 | 06:38:07 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+603 | Sep-24-2012 | 06:44:44 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+604 | Sep-24-2012 | 06:44:44 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+605 | Sep-24-2012 | 06:45:10 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+606 | Sep-24-2012 | 06:48:43 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+607 | Sep-24-2012 | 06:48:43 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+608 | Sep-24-2012 | 06:49:09 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+609 | Sep-24-2012 | 06:56:38 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+610 | Sep-24-2012 | 06:56:38 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+611 | Sep-24-2012 | 06:57:03 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+612 | Sep-24-2012 | 07:05:56 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+613 | Sep-24-2012 | 07:05:56 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+614 | Sep-24-2012 | 07:06:20 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+615 | Sep-24-2012 | 07:19:23 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+616 | Sep-24-2012 | 07:19:24 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+617 | Sep-24-2012 | 07:20:34 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+618 | Sep-24-2012 | 07:21:01 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+619 | Sep-24-2012 | 07:21:02 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+620 | Sep-24-2012 | 07:21:53 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+621 | Sep-24-2012 | 07:22:20 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+622 | Sep-24-2012 | 07:22:20 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+623 | Sep-24-2012 | 07:24:46 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+624 | Sep-24-2012 | 07:25:38 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+625 | Sep-24-2012 | 07:25:38 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+626 | Sep-24-2012 | 07:25:38 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+627 | Sep-24-2012 | 07:25:38 | Button           | Button/Switch               | Power Button pressed
+628 | Sep-24-2012 | 07:25:50 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+629 | Sep-24-2012 | 07:25:50 | Button           | Button/Switch               | Power Button pressed
+630 | Sep-24-2012 | 07:26:03 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+631 | Sep-24-2012 | 07:26:03 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+632 | Sep-24-2012 | 07:26:23 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+633 | Sep-24-2012 | 07:26:47 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+634 | Sep-24-2012 | 07:26:48 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+635 | Sep-24-2012 | 07:26:48 | Button           | Button/Switch               | Power Button pressed
+636 | Sep-24-2012 | 07:26:49 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+637 | Sep-24-2012 | 07:26:54 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+638 | Sep-24-2012 | 07:26:54 | Button           | Button/Switch               | Power Button pressed
+639 | Sep-24-2012 | 07:27:06 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+640 | Sep-24-2012 | 07:27:06 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+641 | Sep-24-2012 | 07:27:32 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+642 | Sep-24-2012 | 07:27:54 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+643 | Sep-24-2012 | 07:27:55 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+644 | Sep-24-2012 | 07:28:29 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+645 | Sep-24-2012 | 07:30:51 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+646 | Sep-24-2012 | 07:30:51 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+647 | Sep-24-2012 | 07:31:16 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+648 | Sep-24-2012 | 07:35:05 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+649 | Sep-24-2012 | 07:35:05 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+650 | Sep-24-2012 | 07:35:11 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+651 | Sep-24-2012 | 07:35:12 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+652 | Sep-24-2012 | 07:35:12 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+653 | Sep-24-2012 | 07:35:12 | Button           | Button/Switch               | Power Button pressed
+654 | Sep-24-2012 | 07:35:25 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+655 | Sep-24-2012 | 07:35:25 | Button           | Button/Switch               | Power Button pressed
+656 | Sep-24-2012 | 07:35:37 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+657 | Sep-24-2012 | 07:35:37 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+658 | Sep-24-2012 | 07:35:57 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+659 | Sep-24-2012 | 07:39:01 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+660 | Sep-24-2012 | 07:39:01 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+661 | Sep-24-2012 | 07:39:22 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+662 | Sep-24-2012 | 07:39:40 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+663 | Sep-24-2012 | 07:39:41 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+664 | Sep-24-2012 | 07:40:22 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+665 | Sep-24-2012 | 07:41:11 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+666 | Sep-24-2012 | 07:41:11 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+667 | Sep-24-2012 | 07:41:41 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+668 | Sep-24-2012 | 07:48:37 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+669 | Sep-24-2012 | 07:48:38 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+670 | Sep-24-2012 | 07:48:58 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+671 | Sep-24-2012 | 08:07:33 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+672 | Sep-24-2012 | 08:07:34 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+673 | Sep-24-2012 | 08:07:34 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+674 | Sep-24-2012 | 08:07:34 | Button           | Button/Switch               | Power Button pressed
+675 | Sep-24-2012 | 08:07:36 | Button           | Button/Switch               | Power Button pressed
+676 | Sep-24-2012 | 08:07:39 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+677 | Sep-24-2012 | 08:07:52 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+678 | Sep-24-2012 | 08:07:52 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+679 | Sep-24-2012 | 08:08:17 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+680 | Sep-24-2012 | 08:11:29 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+681 | Sep-24-2012 | 08:11:29 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+682 | Sep-24-2012 | 08:11:55 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+683 | Sep-24-2012 | 08:14:38 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+684 | Sep-24-2012 | 08:14:38 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+685 | Sep-24-2012 | 08:15:03 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+686 | Sep-24-2012 | 08:22:32 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+687 | Sep-24-2012 | 08:22:32 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+688 | Sep-24-2012 | 08:22:58 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+689 | Sep-24-2012 | 08:59:53 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+690 | Sep-24-2012 | 08:59:53 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+691 | Sep-24-2012 | 08:59:53 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+692 | Sep-24-2012 | 08:59:53 | Button           | Button/Switch               | Power Button pressed
+693 | Sep-24-2012 | 09:00:05 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+694 | Sep-24-2012 | 09:00:05 | Button           | Button/Switch               | Power Button pressed
+695 | Sep-24-2012 | 09:00:13 | Button           | Button/Switch               | Power Button pressed
+696 | Sep-24-2012 | 09:00:18 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+697 | Sep-24-2012 | 09:00:18 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+698 | Sep-24-2012 | 09:00:18 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+699 | Sep-24-2012 | 09:00:20 | Button           | Button/Switch               | Power Button pressed
+700 | Sep-24-2012 | 09:00:24 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+701 | Sep-24-2012 | 09:00:25 | Button           | Button/Switch               | Power Button pressed
+702 | Sep-24-2012 | 09:00:26 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.94 V
+703 | Sep-24-2012 | 09:00:26 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.96 V
+704 | Sep-24-2012 | 09:00:37 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+705 | Sep-24-2012 | 09:00:38 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+706 | Sep-24-2012 | 09:01:03 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+707 | Sep-24-2012 | 09:01:20 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+708 | Sep-24-2012 | 09:01:21 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+709 | Sep-24-2012 | 09:01:21 | Button           | Button/Switch               | Power Button pressed
+710 | Sep-24-2012 | 09:01:21 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+711 | Sep-24-2012 | 09:02:10 | Button           | Button/Switch               | Power Button pressed
+712 | Sep-24-2012 | 09:02:11 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+713 | Sep-24-2012 | 09:02:24 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+714 | Sep-24-2012 | 09:02:24 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+715 | Sep-24-2012 | 09:02:47 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+716 | Sep-24-2012 | 09:25:21 | Button           | Button/Switch               | Reset Button pressed
+717 | Sep-24-2012 | 09:25:32 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+718 | Sep-24-2012 | 09:25:32 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+719 | Sep-24-2012 | 09:26:28 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+720 | Sep-24-2012 | 09:26:28 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+721 | Sep-24-2012 | 09:26:47 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+722 | Sep-25-2012 | 02:13:42 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+723 | Sep-25-2012 | 02:13:42 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+724 | Sep-25-2012 | 02:13:47 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+725 | Sep-25-2012 | 02:18:35 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+726 | Sep-25-2012 | 02:18:35 | Button           | Button/Switch               | Power Button pressed
+727 | Sep-25-2012 | 02:18:48 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+728 | Sep-25-2012 | 02:18:49 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+729 | Sep-25-2012 | 02:19:11 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+730 | Sep-25-2012 | 02:36:25 | Button           | Button/Switch               | Reset Button pressed
+731 | Sep-25-2012 | 02:36:35 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+732 | Sep-25-2012 | 02:36:35 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+733 | Sep-25-2012 | 02:37:30 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+734 | Sep-25-2012 | 02:37:30 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+735 | Sep-25-2012 | 02:37:52 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+736 | Sep-25-2012 | 02:50:59 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+737 | Sep-25-2012 | 02:50:59 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+738 | Sep-25-2012 | 02:52:01 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+739 | Sep-25-2012 | 02:52:01 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+740 | Sep-25-2012 | 02:52:22 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+741 | Sep-25-2012 | 02:54:23 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+742 | Sep-25-2012 | 02:54:23 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+743 | Sep-25-2012 | 02:54:25 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+744 | Sep-25-2012 | 02:54:25 | Button           | Button/Switch               | Power Button pressed
+745 | Sep-25-2012 | 02:54:29 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+746 | Sep-25-2012 | 02:54:42 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+747 | Sep-25-2012 | 02:54:42 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+748 | Sep-25-2012 | 02:55:04 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+749 | Sep-25-2012 | 03:45:59 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+750 | Sep-25-2012 | 03:45:59 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+751 | Sep-25-2012 | 03:44:37 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+752 | Sep-25-2012 | 04:47:29 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+753 | Sep-25-2012 | 04:47:29 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+754 | Sep-25-2012 | 04:47:51 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+755 | Sep-25-2012 | 04:54:56 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+756 | Sep-25-2012 | 04:54:56 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+757 | Sep-25-2012 | 04:55:18 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+758 | Sep-27-2012 | 03:54:34 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+759 | Sep-27-2012 | 03:54:41 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+760 | Sep-27-2012 | 03:54:41 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+761 | Sep-27-2012 | 03:56:41 | Physical Scrty   | Physical Security           | LAN Leash Lost
+762 | Sep-27-2012 | 03:56:47 | PS1 Status       | Power Supply                | Power Supply input lost (AC/DC)
+763 | Sep-27-2012 | 04:04:33 | P1 Status        | Processor                   | Processor Presence detected
+764 | Sep-27-2012 | 04:04:33 | P2 Status        | Processor                   | Processor Presence detected
+765 | Sep-27-2012 | 04:04:41 | Exit Air Temp    | Temperature                 | Upper Non-critical - going high ; Sensor Reading = 83.00 C ; Threshold = 80.00 C
+766 | Sep-27-2012 | 04:04:42 | Exit Air Temp    | Temperature                 | Upper Non-critical - going high ; Sensor Reading = 72.00 C ; Threshold = 80.00 C
+767 | Sep-27-2012 | 04:04:53 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+768 | Sep-27-2012 | 04:04:53 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+769 | Sep-27-2012 | 04:05:12 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 43h ; OEM Event Data3 code = 85h
+770 | Sep-27-2012 | 04:05:12 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 23h ; OEM Event Data3 code = 85h
+771 | Sep-27-2012 | 04:05:12 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 44h ; OEM Event Data3 code = 85h
+772 | Sep-27-2012 | 04:05:12 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 24h ; OEM Event Data3 code = 85h
+773 | Sep-27-2012 | 04:05:15 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+774 | Sep-27-2012 | 04:06:36 | Button           | Button/Switch               | Reset Button pressed
+775 | Sep-27-2012 | 04:06:55 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+776 | Sep-27-2012 | 04:06:56 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+777 | Sep-27-2012 | 04:07:14 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 43h ; OEM Event Data3 code = 85h
+778 | Sep-27-2012 | 04:07:14 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 23h ; OEM Event Data3 code = 85h
+779 | Sep-27-2012 | 04:07:14 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 44h ; OEM Event Data3 code = 85h
+780 | Sep-27-2012 | 04:07:14 | POST Err Sensor  | System Firmware Progress    | System Firmware Error ; OEM Event Data2 code = 24h ; OEM Event Data3 code = 85h
+781 | Sep-27-2012 | 04:08:12 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+782 | Sep-27-2012 | 04:08:12 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+783 | Sep-27-2012 | 04:08:13 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+784 | Sep-27-2012 | 04:08:13 | Button           | Button/Switch               | Power Button pressed
+785 | Sep-27-2012 | 04:08:18 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+786 | Sep-27-2012 | 04:08:34 | Pwr Unit Status  | Power Unit                  | Power Unit Failure detected
+787 | Sep-27-2012 | 04:08:34 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+788 | Sep-27-2012 | 04:08:35 | PS1 Status       | Power Supply                | Power Supply input lost (AC/DC)
+789 | Sep-27-2012 | 04:08:36 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+790 | Sep-27-2012 | 04:08:36 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+791 | Sep-27-2012 | 04:11:11 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+792 | Sep-27-2012 | 04:11:11 | P1 Status        | Processor                   | Processor Presence detected
+793 | Sep-27-2012 | 04:11:11 | P2 Status        | Processor                   | Processor Presence detected
+794 | Sep-27-2012 | 04:11:12 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+795 | Sep-27-2012 | 04:11:14 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+796 | Sep-27-2012 | 04:11:14 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+797 | Sep-27-2012 | 04:11:36 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+798 | Sep-27-2012 | 04:12:00 | Button           | Button/Switch               | Power Button pressed
+799 | Sep-27-2012 | 04:12:04 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+800 | Sep-27-2012 | 04:12:06 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+801 | Sep-27-2012 | 04:12:06 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+802 | Sep-27-2012 | 04:12:07 | Button           | Button/Switch               | Power Button pressed
+803 | Sep-27-2012 | 04:12:10 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+804 | Sep-27-2012 | 04:12:13 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.94 V
+805 | Sep-27-2012 | 04:12:13 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = 1.07 V ; Threshold = 0.96 V
+806 | Sep-27-2012 | 04:12:25 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+807 | Sep-27-2012 | 04:12:25 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+808 | Sep-27-2012 | 04:12:47 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+809 | Sep-27-2012 | 04:13:09 | Pwr Unit Status  | Power Unit                  | Power Unit Failure detected
+810 | Sep-27-2012 | 04:13:10 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+811 | Sep-27-2012 | 04:13:10 | PS1 Status       | Power Supply                | Power Supply input lost (AC/DC)
+812 | Sep-27-2012 | 04:13:12 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+813 | Sep-27-2012 | 04:13:12 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+814 | Sep-27-2012 | 04:13:44 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+815 | Sep-27-2012 | 04:13:44 | P1 Status        | Processor                   | Processor Presence detected
+816 | Sep-27-2012 | 04:13:44 | P2 Status        | Processor                   | Processor Presence detected
+817 | Sep-27-2012 | 04:13:45 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+818 | Sep-27-2012 | 04:13:53 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+819 | Sep-27-2012 | 04:13:54 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+820 | Sep-27-2012 | 04:14:16 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+821 | Sep-27-2012 | 04:14:26 | Button           | Button/Switch               | Reset Button pressed
+822 | Sep-27-2012 | 04:14:37 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+823 | Sep-27-2012 | 04:14:37 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+824 | Sep-27-2012 | 04:14:58 | Pwr Unit Status  | Power Unit                  | Power Unit Failure detected
+825 | Sep-27-2012 | 04:14:58 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+826 | Sep-27-2012 | 04:14:58 | PS1 Status       | Power Supply                | Power Supply input lost (AC/DC)
+827 | Sep-27-2012 | 04:15:00 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+828 | Sep-27-2012 | 04:15:00 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+829 | Sep-27-2012 | 04:17:58 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+830 | Sep-27-2012 | 04:17:58 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+831 | Sep-27-2012 | 04:17:58 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+832 | Sep-27-2012 | 04:17:58 | P1 Status        | Processor                   | Processor Presence detected
+833 | Sep-27-2012 | 04:17:58 | P2 Status        | Processor                   | Processor Presence detected
+834 | Sep-27-2012 | 04:17:59 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+835 | Sep-27-2012 | 04:18:06 | Exit Air Temp    | Temperature                 | Upper Non-critical - going high ; Sensor Reading = 90.00 C ; Threshold = 80.00 C
+836 | Sep-27-2012 | 04:18:06 | Exit Air Temp    | Temperature                 | Upper Critical - going high ; Sensor Reading = 90.00 C ; Threshold = 85.00 C
+837 | Sep-27-2012 | 04:18:07 | Exit Air Temp    | Temperature                 | Upper Critical - going high ; Sensor Reading = 77.00 C ; Threshold = 85.00 C
+838 | Sep-27-2012 | 04:18:07 | Exit Air Temp    | Temperature                 | Upper Non-critical - going high ; Sensor Reading = 77.00 C ; Threshold = 80.00 C
+839 | Sep-27-2012 | 04:18:20 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+840 | Sep-27-2012 | 04:19:22 | Button           | Button/Switch               | Power Button pressed
+841 | Sep-27-2012 | 04:19:23 | Button           | Button/Switch               | Reset Button pressed
+842 | Sep-27-2012 | 04:19:32 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+843 | Sep-27-2012 | 04:19:33 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+844 | Sep-27-2012 | 04:20:20 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+845 | Sep-27-2012 | 04:20:20 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+846 | Sep-27-2012 | 04:20:41 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+847 | Sep-27-2012 | 05:09:29 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+848 | Sep-27-2012 | 05:09:30 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+849 | Sep-27-2012 | 05:09:30 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+850 | Sep-27-2012 | 07:18:40 | Physical Scrty   | Physical Security           | LAN Leash Lost
+851 | Sep-27-2012 | 07:18:55 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+852 | Sep-27-2012 | 07:18:55 | Button           | Button/Switch               | Power Button pressed
+853 | Sep-27-2012 | 07:18:59 | Physical Scrty   | Physical Security           | LAN Leash Lost
+854 | Sep-27-2012 | 07:18:59 | Physical Scrty   | Physical Security           | LAN Leash Lost
+855 | Sep-27-2012 | 07:19:04 | Exit Air Temp    | Temperature                 | Upper Non-critical - going high ; Sensor Reading = 96.00 C ; Threshold = 80.00 C
+856 | Sep-27-2012 | 07:19:04 | Exit Air Temp    | Temperature                 | Upper Critical - going high ; Sensor Reading = 96.00 C ; Threshold = 85.00 C
+857 | Sep-27-2012 | 07:19:06 | Exit Air Temp    | Temperature                 | Upper Critical - going high ; Sensor Reading = 73.00 C ; Threshold = 85.00 C
+858 | Sep-27-2012 | 07:19:07 | Exit Air Temp    | Temperature                 | Upper Non-critical - going high ; Sensor Reading = 73.00 C ; Threshold = 80.00 C
+859 | Sep-27-2012 | 07:19:08 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+860 | Sep-27-2012 | 07:19:09 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+861 | Sep-27-2012 | 07:19:31 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+862 | Oct-02-2012 | 08:38:39 | Button           | Button/Switch               | Power Button pressed
+863 | Oct-02-2012 | 08:38:46 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+864 | Oct-02-2012 | 08:39:01 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+865 | Oct-02-2012 | 08:39:03 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+866 | Oct-02-2012 | 09:17:07 | PS1 Status       | Power Supply                | Power Supply input lost (AC/DC)
+867 | Oct-02-2012 | 09:19:37 | P1 Status        | Processor                   | Processor Presence detected
+868 | Oct-02-2012 | 09:19:37 | P2 Status        | Processor                   | Processor Presence detected
+869 | Oct-02-2012 | 09:19:38 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+870 | Oct-02-2012 | 09:19:39 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+871 | Oct-02-2012 | 09:20:01 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+872 | Oct-02-2012 | 09:22:55 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+873 | Oct-02-2012 | 09:22:55 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+874 | Oct-02-2012 | 09:23:16 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+875 | Oct-03-2012 | 04:33:51 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+876 | Oct-03-2012 | 04:33:54 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+877 | Oct-03-2012 | 04:35:07 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+878 | Oct-03-2012 | 04:35:07 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+879 | Oct-03-2012 | 04:35:07 | Pwr Unit Status  | Power Unit                  | Power Unit Failure detected
+880 | Oct-03-2012 | 04:35:08 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+881 | Oct-03-2012 | 04:35:08 | PS1 Status       | Power Supply                | Power Supply input lost (AC/DC)
+882 | Oct-03-2012 | 04:35:09 | BB +1.1V STBY    | Voltage                     | Lower Non-critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.96 V
+883 | Oct-03-2012 | 04:35:09 | BB +1.1V STBY    | Voltage                     | Lower Critical - going low ; Sensor Reading = -0.01 V ; Threshold = 0.94 V
+884 | Oct-03-2012 | 04:38:19 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+885 | Oct-03-2012 | 04:38:19 | P1 Status        | Processor                   | Processor Presence detected
+886 | Oct-03-2012 | 04:38:19 | P2 Status        | Processor                   | Processor Presence detected
+887 | Oct-03-2012 | 04:38:20 | Pwr Unit Status  | Power Unit                  | AC lost/Power input lost
+888 | Oct-03-2012 | 04:38:39 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+889 | Oct-03-2012 | 04:38:39 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+890 | Oct-03-2012 | 04:39:42 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+891 | Oct-03-2012 | 04:39:43 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+892 | Oct-03-2012 | 04:40:04 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+893 | Oct-03-2012 | 04:43:26 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+894 | Oct-03-2012 | 04:43:26 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+895 | Oct-03-2012 | 04:43:47 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+896 | Oct-18-2012 | 04:42:05 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+897 | Oct-18-2012 | 04:42:05 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+898 | Oct-18-2012 | 04:42:48 | Pwr Unit Status  | Power Unit                  | Power Off/Power Down
+899 | Oct-18-2012 | 04:43:05 | PS1 Status       | Power Supply                | Power Supply input lost (AC/DC)
+900 | Oct-18-2012 | 04:46:45 | P1 Status        | Processor                   | Processor Presence detected
+901 | Oct-18-2012 | 04:46:45 | P2 Status        | Processor                   | Processor Presence detected
+902 | Oct-18-2012 | 04:46:59 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+903 | Oct-18-2012 | 04:47:00 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+904 | Oct-18-2012 | 04:47:29 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+905 | Oct-18-2012 | 04:49:58 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+906 | Oct-18-2012 | 04:49:58 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+907 | Oct-18-2012 | 04:50:26 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+908 | Dec-10-2012 | 08:21:46 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+909 | Dec-10-2012 | 07:24:15 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+910 | Dec-10-2012 | 07:24:43 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+911 | Dec-10-2012 | 07:38:53 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+912 | Dec-10-2012 | 07:38:54 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+913 | Dec-10-2012 | 07:39:22 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+914 | Dec-26-2012 | 00:28:08 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+915 | Dec-26-2012 | 00:28:08 | BIOS Evt Sensor  | System Event                | Timestamp Clock Synch
+916 | Dec-26-2012 | 00:29:20 | BIOS Evt Sensor  | System Event                | OEM System Boot Event
+ipmi-sel - 1.2.1
+Copyright (C) 2003-2012 FreeIPMI Core Team
+This program is free software; you may redistribute it under the terms of
+the GNU General Public License.  This program has absolutely no warranty.

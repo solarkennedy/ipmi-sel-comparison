@@ -1,0 +1,917 @@
+   1 | 11/08/2011 | 12:33:24 | Event Logging Disabled #0x07 | Log area reset/cleared | Asserted
+   2 | 11/10/2011 | 11:16:57 | System Event #0x83 | Timestamp Clock Sync | Asserted
+   3 | 11/10/2011 | 11:16:57 | System Event #0x83 | Timestamp Clock Sync | Asserted
+   4 | 11/10/2011 | 10:17:16 | Power Unit #0x01 | Power off/down | Asserted
+   5 | 11/10/2011 | 11:17:15 | Power Unit #0x01 | Power off/down | Deasserted
+   6 | 11/10/2011 | 11:17:15 | Button #0x09 | Power Button pressed | Asserted
+   7 | 11/10/2011 | 11:17:18 | Power Supply #0x50 | Config Error: Revision Mismatch | Deasserted
+   8 | 11/10/2011 | 11:17:19 | Power Supply #0x50 | Config Error: Revision Mismatch | Asserted
+   9 | 11/10/2011 | 11:17:19 | Power Supply #0x50 | Config Error: Revision Mismatch | Deasserted
+   a | 11/10/2011 | 11:17:20 | Power Supply #0x50 | Config Error: Revision Mismatch | Asserted
+   b | 11/10/2011 | 11:17:27 | System Event #0x83 | Timestamp Clock Sync | Asserted
+   c | 11/10/2011 | 11:17:28 | System Event #0x83 | Timestamp Clock Sync | Asserted
+   d | 11/10/2011 | 11:18:00 | System Event #0x83 | OEM System boot event | Asserted
+   e | 11/10/2011 | 13:12:49 | Button #0x09 | Power Button pressed | Asserted
+   f | 11/10/2011 | 13:12:57 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  10 | 11/10/2011 | 13:12:58 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  11 | 11/10/2011 | 13:12:58 | Power Unit #0x01 | Power off/down | Asserted
+  12 | 11/10/2011 | 13:33:40 | Processor #0x70 | Presence detected | Asserted
+  13 | 11/10/2011 | 13:33:40 | Processor #0x71 | Presence detected | Asserted
+  14 | 11/10/2011 | 13:33:44 | Power Supply #0x50 | Config Error: Revision Mismatch | Asserted
+  15 | 11/10/2011 | 13:33:47 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  16 | 11/10/2011 | 13:33:47 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  17 | 11/10/2011 | 13:33:55 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+  18 | 11/10/2011 | 13:33:55 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+  19 | 11/10/2011 | 13:34:02 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+  1a | 11/10/2011 | 13:34:20 | System Event #0x83 | OEM System boot event | Asserted
+  1b | 11/10/2011 | 13:35:12 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+  1c | 11/10/2011 | 13:35:12 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+  1d | 11/10/2011 | 15:09:43 | Power Supply #0x50 | Config Error: Revision Mismatch | Deasserted
+  1e | 11/10/2011 | 15:09:43 | Power Supply #0x50 | Config Error: Revision Mismatch | Asserted
+  1f | 11/10/2011 | 15:09:51 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  20 | 11/10/2011 | 15:09:52 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  21 | 11/10/2011 | 15:10:20 | System Event #0x83 | OEM System boot event | Asserted
+  22 | 11/17/2011 | 10:19:24 | Power Supply #0x50 | Config Error: Revision Mismatch | Deasserted
+  23 | 11/17/2011 | 10:19:25 | Power Supply #0x50 | Config Error: Revision Mismatch | Asserted
+  24 | 11/17/2011 | 10:19:32 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  25 | 11/17/2011 | 10:19:32 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  26 | 11/17/2011 | 10:20:18 | System Event #0x83 | OEM System boot event | Asserted
+  27 | 11/23/2011 | 14:52:53 | Power Supply #0x50 | Config Error: Revision Mismatch | Deasserted
+  28 | 11/23/2011 | 14:52:54 | Power Supply #0x50 | Config Error: Revision Mismatch | Asserted
+  29 | 11/23/2011 | 14:53:01 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  2a | 11/23/2011 | 14:53:17 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  2b | 11/23/2011 | 14:53:45 | System Event #0x83 | OEM System boot event | Asserted
+  2c | 12/01/2011 | 10:13:55 | Power Supply #0x50 | Config Error: Revision Mismatch | Deasserted
+  2d | 12/01/2011 | 10:13:56 | Power Supply #0x50 | Config Error: Revision Mismatch | Asserted
+  2e | 12/01/2011 | 10:14:03 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  2f | 12/01/2011 | 10:14:03 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  30 | 12/01/2011 | 10:14:52 | System Event #0x83 | OEM System boot event | Asserted
+  31 | 12/01/2011 | 11:04:42 | Power Supply #0x50 | Config Error: Revision Mismatch | Deasserted
+  32 | 12/01/2011 | 11:04:43 | Power Supply #0x50 | Config Error: Revision Mismatch | Asserted
+  33 | 12/01/2011 | 11:04:50 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  34 | 12/01/2011 | 11:04:51 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  35 | 12/01/2011 | 11:05:19 | System Event #0x83 | OEM System boot event | Asserted
+  36 | 12/08/2011 | 11:03:14 | Power Unit #0x01 | Failure detected | Asserted
+  37 | 12/08/2011 | 11:03:15 | Power Unit #0x01 | Power off/down | Asserted
+  38 | 12/08/2011 | 11:03:15 | Voltage #0xdd | Lower Non-critical going low 
+  39 | 12/08/2011 | 11:03:15 | Voltage #0xdd | Lower Critical going low 
+  3a | 12/08/2011 | 12:04:38 | Power Unit #0x01 | AC lost | Asserted
+  3b | 12/08/2011 | 12:04:38 | Processor #0x70 | Presence detected | Asserted
+  3c | 12/08/2011 | 12:04:38 | Processor #0x71 | Presence detected | Asserted
+  3d | 12/08/2011 | 12:04:39 | Power Unit #0x01 | AC lost | Deasserted
+  3e | 12/08/2011 | 12:04:58 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  3f | 12/08/2011 | 12:04:58 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  40 | 12/08/2011 | 12:05:02 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+  41 | 12/08/2011 | 12:05:02 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+  42 | 12/08/2011 | 12:05:10 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+  43 | 12/08/2011 | 12:05:35 | System Event #0x83 | OEM System boot event | Asserted
+  44 | 12/08/2011 | 12:06:20 | Processor #0x70 | Presence detected | Asserted
+  45 | 12/08/2011 | 12:06:20 | Processor #0x71 | Presence detected | Asserted
+  46 | 12/08/2011 | 12:06:35 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+  47 | 12/08/2011 | 12:06:35 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+  48 | 12/08/2011 | 12:06:35 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+  49 | 12/08/2011 | 12:06:45 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  4a | 12/08/2011 | 12:06:45 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  4b | 12/08/2011 | 12:07:15 | System Event #0x83 | OEM System boot event | Asserted
+  4c | 12/08/2011 | 12:07:56 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+  4d | 12/08/2011 | 12:07:56 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+  4e | 12/08/2011 | 14:35:05 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  4f | 12/08/2011 | 14:35:05 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  50 | 12/08/2011 | 14:35:33 | System Event #0x83 | OEM System boot event | Asserted
+  51 | 12/15/2011 | 11:35:14 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  52 | 12/15/2011 | 11:35:14 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  53 | 12/15/2011 | 11:36:01 | System Event #0x83 | OEM System boot event | Asserted
+  54 | 12/20/2011 | 13:37:44 | Button #0x09 | Reset Button pressed | Asserted
+  55 | 12/20/2011 | 13:37:52 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  56 | 12/20/2011 | 13:38:05 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  57 | 12/20/2011 | 13:38:36 | System Event #0x83 | OEM System boot event | Asserted
+  58 | 12/20/2011 | 13:40:09 | Version Change #0x12 | 
+  59 | 12/20/2011 | 13:40:59 | Version Change #0x12 | 
+  5a | 12/20/2011 | 13:43:02 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  5b | 12/20/2011 | 13:43:03 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  5c | 12/20/2011 | 13:44:55 | System Event #0x83 | OEM System boot event | Asserted
+  5d | 12/20/2011 | 13:47:27 | Unknown #0x17 | 
+  5e | 12/20/2011 | 13:56:04 | Button #0x09 | Reset Button pressed | Asserted
+  5f | 12/20/2011 | 13:56:05 | Power Unit #0x01 | Power off/down | Asserted
+  60 | 12/20/2011 | 13:56:10 | Power Unit #0x01 | Power off/down | Deasserted
+  61 | 12/20/2011 | 13:56:34 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  62 | 12/20/2011 | 13:56:34 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  63 | 12/20/2011 | 13:56:50 | System Firmware Error #0x06 | Unknown Error | Asserted
+  64 | 12/20/2011 | 13:56:50 | System Firmware Error #0x06 | Unknown Error | Asserted
+  65 | 12/20/2011 | 13:56:50 | System Firmware Error #0x06 | Unknown Error | Asserted
+  66 | 12/20/2011 | 13:56:50 | System Firmware Error #0x06 | Unknown Error | Asserted
+  67 | 12/20/2011 | 13:57:08 | System Event #0x83 | OEM System boot event | Asserted
+  68 | 12/20/2011 | 14:03:57 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  69 | 12/20/2011 | 14:03:57 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  6a | 12/20/2011 | 14:04:08 | System Firmware Error #0x06 | Unknown Error | Asserted
+  6b | 12/20/2011 | 14:04:08 | System Firmware Error #0x06 | Unknown Error | Asserted
+  6c | 12/20/2011 | 14:04:08 | System Firmware Error #0x06 | Unknown Error | Asserted
+  6d | 12/20/2011 | 14:04:08 | System Firmware Error #0x06 | Unknown Error | Asserted
+  6e | 12/20/2011 | 14:04:30 | Power Unit #0x01 | Power off/down | Asserted
+  6f | 12/20/2011 | 14:04:36 | Power Unit #0x01 | Power off/down | Deasserted
+  70 | 12/20/2011 | 14:04:49 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  71 | 12/20/2011 | 14:04:50 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  72 | 12/20/2011 | 14:07:33 | Power Unit #0x01 | Failure detected | Asserted
+  73 | 12/20/2011 | 14:07:33 | Power Unit #0x01 | Power off/down | Asserted
+  74 | 12/20/2011 | 14:07:33 | Power Supply #0x50 | Power Supply AC lost | Asserted
+  75 | 12/20/2011 | 14:07:35 | Voltage #0xdd | Lower Non-critical going low 
+  76 | 12/20/2011 | 14:07:35 | Voltage #0xdd | Lower Critical going low 
+  77 | 12/20/2011 | 14:08:08 | Power Unit #0x01 | AC lost | Asserted
+  78 | 12/20/2011 | 14:08:08 | Processor #0x70 | Presence detected | Asserted
+  79 | 12/20/2011 | 14:08:08 | Processor #0x71 | Presence detected | Asserted
+  7a | 12/20/2011 | 14:08:10 | Power Unit #0x01 | AC lost | Deasserted
+  7b | 12/20/2011 | 14:08:21 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  7c | 12/20/2011 | 14:08:21 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  7d | 12/20/2011 | 14:08:56 | System Event #0x83 | OEM System boot event | Asserted
+  7e | 12/20/2011 | 14:09:56 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  7f | 12/20/2011 | 14:09:57 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  80 | 12/20/2011 | 14:10:25 | System Event #0x83 | OEM System boot event | Asserted
+  81 | 12/20/2011 | 14:10:48 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  82 | 12/20/2011 | 14:10:48 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  83 | 12/20/2011 | 14:11:55 | System Event #0x83 | OEM System boot event | Asserted
+  84 | 12/20/2011 | 14:13:12 | Version Change #0x12 | 
+  85 | 12/20/2011 | 14:14:01 | Version Change #0x12 | 
+  86 | 12/20/2011 | 14:19:22 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  87 | 12/20/2011 | 14:19:22 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  88 | 12/20/2011 | 14:20:00 | System Event #0x83 | OEM System boot event | Asserted
+  89 | 12/26/2011 | 08:15:31 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  8a | 12/26/2011 | 08:15:31 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  8b | 12/26/2011 | 08:16:15 | System Event #0x83 | OEM System boot event | Asserted
+  8c | 01/05/2012 | 15:20:15 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  8d | 01/05/2012 | 15:20:15 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  8e | 01/05/2012 | 15:21:12 | System Event #0x83 | OEM System boot event | Asserted
+  8f | 01/12/2012 | 10:54:56 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  90 | 01/12/2012 | 10:54:56 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  91 | 01/12/2012 | 10:55:44 | System Event #0x83 | OEM System boot event | Asserted
+  92 | 01/16/2012 | 12:19:55 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  93 | 01/16/2012 | 12:19:55 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  94 | 01/16/2012 | 12:20:35 | System Event #0x83 | OEM System boot event | Asserted
+  95 | 01/16/2012 | 12:57:02 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  96 | 01/16/2012 | 12:57:03 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  97 | 01/16/2012 | 12:57:32 | System Event #0x83 | OEM System boot event | Asserted
+  98 | 01/16/2012 | 12:58:13 | Critical Interrupt #0x05 | 
+  99 | 01/16/2012 | 12:58:14 | Critical Interrupt #0x05 | 
+  9a | 01/16/2012 | 12:58:14 | Critical Interrupt #0x05 | 
+  9b | 01/16/2012 | 12:58:14 | Critical Interrupt #0x05 | 
+  9c | 01/16/2012 | 12:58:14 | Critical Interrupt #0x05 | 
+  9d | 01/16/2012 | 12:58:14 | Critical Interrupt #0x05 | 
+  9e | 01/16/2012 | 12:58:14 | Critical Interrupt #0x05 | 
+  9f | 01/16/2012 | 12:58:14 | Critical Interrupt #0x05 | 
+  a0 | 01/16/2012 | 12:58:14 | Critical Interrupt #0x05 | 
+  a1 | 01/16/2012 | 12:58:14 | Critical Interrupt #0x05 | 
+  a2 | 01/16/2012 | 15:37:47 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  a3 | 01/16/2012 | 15:37:48 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  a4 | 01/16/2012 | 15:38:17 | System Event #0x83 | OEM System boot event | Asserted
+  a5 | 01/16/2012 | 15:39:00 | Critical Interrupt #0x05 | 
+  a6 | 01/16/2012 | 15:39:00 | Critical Interrupt #0x05 | 
+  a7 | 01/16/2012 | 15:39:00 | Critical Interrupt #0x05 | 
+  a8 | 01/16/2012 | 15:39:00 | Critical Interrupt #0x05 | 
+  a9 | 01/16/2012 | 15:39:00 | Critical Interrupt #0x05 | 
+  aa | 01/16/2012 | 15:39:00 | Critical Interrupt #0x05 | 
+  ab | 01/16/2012 | 15:39:01 | Critical Interrupt #0x05 | 
+  ac | 01/16/2012 | 15:39:01 | Critical Interrupt #0x05 | 
+  ad | 01/16/2012 | 15:41:35 | Critical Interrupt #0x05 | 
+  ae | 01/16/2012 | 16:01:15 | Critical Interrupt #0x05 | 
+  af | 01/19/2012 | 13:45:50 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  b0 | 01/19/2012 | 13:45:58 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  b1 | 01/19/2012 | 13:46:27 | System Event #0x83 | OEM System boot event | Asserted
+  b2 | 01/19/2012 | 13:47:10 | Critical Interrupt #0x05 | 
+  b3 | 01/19/2012 | 13:47:10 | Critical Interrupt #0x05 | 
+  b4 | 01/19/2012 | 13:47:10 | Critical Interrupt #0x05 | 
+  b5 | 01/19/2012 | 13:47:10 | Critical Interrupt #0x05 | 
+  b6 | 01/19/2012 | 13:47:10 | Critical Interrupt #0x05 | 
+  b7 | 01/19/2012 | 13:47:10 | Critical Interrupt #0x05 | 
+  b8 | 01/19/2012 | 13:47:10 | Critical Interrupt #0x05 | 
+  b9 | 01/19/2012 | 13:47:10 | Critical Interrupt #0x05 | 
+  ba | 01/19/2012 | 13:47:11 | Critical Interrupt #0x05 | 
+  bb | 01/19/2012 | 13:47:11 | Critical Interrupt #0x05 | 
+  bc | 01/20/2012 | 10:11:54 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  bd | 01/20/2012 | 10:11:54 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  be | 01/20/2012 | 10:12:26 | System Event #0x83 | OEM System boot event | Asserted
+  bf | 01/20/2012 | 10:13:08 | Critical Interrupt #0x05 | 
+  c0 | 01/20/2012 | 10:13:08 | Critical Interrupt #0x05 | 
+  c1 | 01/20/2012 | 10:13:08 | Critical Interrupt #0x05 | 
+  c2 | 01/20/2012 | 10:13:08 | Critical Interrupt #0x05 | 
+  c3 | 01/20/2012 | 10:13:09 | Critical Interrupt #0x05 | 
+  c4 | 01/20/2012 | 10:13:09 | Critical Interrupt #0x05 | 
+  c5 | 01/20/2012 | 10:13:09 | Critical Interrupt #0x05 | 
+  c6 | 01/20/2012 | 10:13:09 | Critical Interrupt #0x05 | 
+  c7 | 01/20/2012 | 10:13:09 | Critical Interrupt #0x05 | 
+  c8 | 01/20/2012 | 10:13:09 | Critical Interrupt #0x05 | 
+  c9 | 01/23/2012 | 15:06:15 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  ca | 01/23/2012 | 15:06:15 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  cb | 01/23/2012 | 15:06:53 | System Event #0x83 | OEM System boot event | Asserted
+  cc | 01/23/2012 | 15:07:36 | Critical Interrupt #0x05 | 
+  cd | 01/23/2012 | 15:07:37 | Critical Interrupt #0x05 | 
+  ce | 01/23/2012 | 15:07:37 | Critical Interrupt #0x05 | 
+  cf | 01/23/2012 | 15:47:52 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  d0 | 01/23/2012 | 15:47:52 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  d1 | 01/23/2012 | 15:48:21 | Critical Interrupt #0x05 | 
+  d2 | 01/23/2012 | 15:48:22 | System Event #0x83 | OEM System boot event | Asserted
+  d3 | 01/23/2012 | 15:49:04 | Critical Interrupt #0x05 | 
+  d4 | 01/23/2012 | 15:49:05 | Critical Interrupt #0x05 | 
+  d5 | 01/23/2012 | 15:49:05 | Critical Interrupt #0x05 | 
+  d6 | 01/23/2012 | 15:49:05 | Critical Interrupt #0x05 | 
+  d7 | 01/23/2012 | 15:49:05 | Critical Interrupt #0x05 | 
+  d8 | 01/23/2012 | 15:49:05 | Critical Interrupt #0x05 | 
+  d9 | 01/23/2012 | 15:49:05 | Critical Interrupt #0x05 | 
+  da | 01/23/2012 | 15:49:05 | Critical Interrupt #0x05 | 
+  db | 01/23/2012 | 15:49:05 | Critical Interrupt #0x05 | 
+  dc | 01/26/2012 | 10:59:24 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  dd | 01/26/2012 | 10:59:32 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  de | 01/26/2012 | 11:00:01 | System Event #0x83 | OEM System boot event | Asserted
+  df | 01/26/2012 | 11:00:44 | Critical Interrupt #0x05 | 
+  e0 | 01/26/2012 | 11:00:45 | Critical Interrupt #0x05 | 
+  e1 | 01/26/2012 | 11:00:45 | Critical Interrupt #0x05 | 
+  e2 | 01/26/2012 | 11:00:45 | Critical Interrupt #0x05 | 
+  e3 | 01/26/2012 | 11:00:45 | Critical Interrupt #0x05 | 
+  e4 | 01/26/2012 | 11:00:45 | Critical Interrupt #0x05 | 
+  e5 | 01/26/2012 | 11:00:45 | Critical Interrupt #0x05 | 
+  e6 | 01/26/2012 | 11:00:45 | Critical Interrupt #0x05 | 
+  e7 | 01/26/2012 | 11:00:45 | Critical Interrupt #0x05 | 
+  e8 | 01/26/2012 | 11:00:46 | Critical Interrupt #0x05 | 
+  e9 | 02/01/2012 | 11:35:26 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  ea | 02/01/2012 | 11:35:43 | System Event #0x83 | Timestamp Clock Sync | Asserted
+  eb | 02/01/2012 | 11:36:12 | System Event #0x83 | OEM System boot event | Asserted
+  ec | 02/01/2012 | 11:36:53 | Critical Interrupt #0x05 | 
+  ed | 02/01/2012 | 11:36:54 | Critical Interrupt #0x05 | 
+  ee | 02/01/2012 | 11:36:54 | Critical Interrupt #0x05 | 
+  ef | 02/01/2012 | 11:36:54 | Critical Interrupt #0x05 | 
+  f0 | 02/01/2012 | 11:36:54 | Critical Interrupt #0x05 | 
+  f1 | 02/01/2012 | 11:36:54 | Critical Interrupt #0x05 | 
+  f2 | 02/01/2012 | 11:36:54 | Critical Interrupt #0x05 | 
+  f3 | 02/01/2012 | 11:36:54 | Critical Interrupt #0x05 | 
+  f4 | 02/01/2012 | 11:36:54 | Critical Interrupt #0x05 | 
+  f5 | 02/01/2012 | 11:36:54 | Critical Interrupt #0x05 | 
+  f6 | 02/02/2012 | 12:01:23 | Power Supply #0x50 | Predictive failure | Asserted
+  f7 | 02/02/2012 | 12:01:23 | Power Unit #0x01 | Failure detected | Asserted
+  f8 | 02/02/2012 | 12:01:24 | Power Unit #0x01 | Power off/down | Asserted
+  f9 | 02/02/2012 | 12:01:24 | Power Supply #0x50 | Predictive failure | Deasserted
+  fa | 02/02/2012 | 12:01:24 | Power Supply #0x50 | Power Supply AC lost | Asserted
+  fb | 02/02/2012 | 12:01:24 | Voltage #0xdd | Lower Non-critical going low 
+  fc | 02/02/2012 | 12:01:24 | Voltage #0xdd | Lower Critical going low 
+  fd | 02/02/2012 | 12:04:10 | Power Unit #0x01 | AC lost | Asserted
+  fe | 02/02/2012 | 12:04:10 | Processor #0x70 | Presence detected | Asserted
+  ff | 02/02/2012 | 12:04:10 | Processor #0x71 | Presence detected | Asserted
+ 100 | 02/02/2012 | 12:04:11 | Power Unit #0x01 | AC lost | Deasserted
+ 101 | 02/02/2012 | 12:04:23 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 102 | 02/02/2012 | 12:04:23 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 103 | 02/02/2012 | 12:04:56 | System Event #0x83 | OEM System boot event | Asserted
+ 104 | 02/02/2012 | 12:05:39 | Critical Interrupt #0x05 | 
+ 105 | 02/02/2012 | 12:05:39 | Critical Interrupt #0x05 | 
+ 106 | 02/02/2012 | 12:05:39 | Critical Interrupt #0x05 | 
+ 107 | 02/02/2012 | 12:05:39 | Critical Interrupt #0x05 | 
+ 108 | 02/02/2012 | 12:05:39 | Critical Interrupt #0x05 | 
+ 109 | 02/02/2012 | 12:05:40 | Critical Interrupt #0x05 | 
+ 10a | 02/02/2012 | 12:05:40 | Critical Interrupt #0x05 | 
+ 10b | 02/02/2012 | 12:05:40 | Critical Interrupt #0x05 | 
+ 10c | 02/02/2012 | 12:05:40 | Critical Interrupt #0x05 | 
+ 10d | 02/02/2012 | 12:05:40 | Critical Interrupt #0x05 | 
+ 10e | 02/04/2012 | 08:15:07 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 10f | 02/04/2012 | 08:15:07 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 110 | 02/04/2012 | 08:15:42 | System Event #0x83 | OEM System boot event | Asserted
+ 111 | 02/04/2012 | 08:16:23 | Critical Interrupt #0x05 | 
+ 112 | 02/04/2012 | 08:16:23 | Critical Interrupt #0x05 | 
+ 113 | 02/04/2012 | 08:16:23 | Critical Interrupt #0x05 | 
+ 114 | 02/04/2012 | 08:16:23 | Critical Interrupt #0x05 | 
+ 115 | 02/04/2012 | 08:16:24 | Critical Interrupt #0x05 | 
+ 116 | 02/04/2012 | 08:16:24 | Critical Interrupt #0x05 | 
+ 117 | 02/04/2012 | 08:16:24 | Critical Interrupt #0x05 | 
+ 118 | 02/04/2012 | 08:16:24 | Critical Interrupt #0x05 | 
+ 119 | 02/04/2012 | 08:16:24 | Critical Interrupt #0x05 | 
+ 11a | 02/04/2012 | 08:16:24 | Critical Interrupt #0x05 | 
+ 11b | 02/09/2012 | 10:30:02 | Power Unit #0x01 | Power off/down | Asserted
+ 11c | 02/09/2012 | 10:30:04 | Voltage #0xdd | Lower Non-critical going low 
+ 11d | 02/09/2012 | 10:30:04 | Voltage #0xdd | Lower Critical going low 
+ 11e | 02/09/2012 | 10:30:08 | Power Unit #0x01 | Power off/down | Deasserted
+ 11f | 02/09/2012 | 10:30:10 | Voltage #0xdd | Lower Critical going low 
+ 120 | 02/09/2012 | 10:30:10 | Voltage #0xdd | Lower Non-critical going low 
+ 121 | 02/09/2012 | 10:30:21 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 122 | 02/09/2012 | 10:30:21 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 123 | 02/09/2012 | 10:31:07 | System Event #0x83 | OEM System boot event | Asserted
+ 124 | 02/09/2012 | 10:31:51 | Critical Interrupt #0x05 | 
+ 125 | 02/09/2012 | 10:31:51 | Critical Interrupt #0x05 | 
+ 126 | 02/09/2012 | 10:31:51 | Critical Interrupt #0x05 | 
+ 127 | 02/09/2012 | 10:31:51 | Critical Interrupt #0x05 | 
+ 128 | 02/09/2012 | 10:31:51 | Critical Interrupt #0x05 | 
+ 129 | 02/09/2012 | 10:31:51 | Critical Interrupt #0x05 | 
+ 12a | 02/09/2012 | 10:31:51 | Critical Interrupt #0x05 | 
+ 12b | 02/09/2012 | 10:31:51 | Critical Interrupt #0x05 | 
+ 12c | 02/09/2012 | 10:31:51 | Critical Interrupt #0x05 | 
+ 12d | 02/09/2012 | 10:31:52 | Critical Interrupt #0x05 | 
+ 12e | 02/09/2012 | 11:09:38 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 12f | 02/09/2012 | 11:09:38 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 130 | 02/09/2012 | 11:10:09 | System Event #0x83 | OEM System boot event | Asserted
+ 131 | 02/16/2012 | 10:25:58 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 132 | 02/16/2012 | 10:26:17 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 133 | 02/16/2012 | 10:26:46 | System Event #0x83 | OEM System boot event | Asserted
+ 134 | 02/22/2012 | 09:33:09 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 135 | 02/22/2012 | 09:33:26 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 136 | 02/22/2012 | 09:33:55 | System Event #0x83 | OEM System boot event | Asserted
+ 137 | 02/24/2012 | 22:50:49 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 138 | 02/24/2012 | 22:50:49 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 139 | 02/24/2012 | 22:51:25 | System Event #0x83 | OEM System boot event | Asserted
+ 13a | 02/28/2012 | 09:37:24 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 13b | 02/28/2012 | 09:37:24 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 13c | 02/28/2012 | 09:38:02 | System Event #0x83 | OEM System boot event | Asserted
+ 13d | 03/01/2012 | 12:07:23 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 13e | 03/01/2012 | 12:07:23 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 13f | 03/01/2012 | 12:07:59 | System Event #0x83 | OEM System boot event | Asserted
+ 140 | 03/08/2012 | 10:31:52 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 141 | 03/08/2012 | 10:32:11 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 142 | 03/08/2012 | 10:32:40 | System Event #0x83 | OEM System boot event | Asserted
+ 143 | 03/15/2012 | 09:40:16 | Unknown #0x17 | 
+ 144 | 03/15/2012 | 09:40:17 | Unknown #0x17 | 
+ 145 | 03/15/2012 | 09:40:31 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+ 146 | 03/15/2012 | 09:40:31 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+ 147 | 03/15/2012 | 09:40:35 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+ 148 | 03/15/2012 | 09:41:44 | Version Change #0x12 | 
+ 149 | 03/15/2012 | 09:42:34 | Version Change #0x12 | 
+ 14a | 03/15/2012 | 12:43:25 | Button #0x09 | Reset Button pressed | Asserted
+ 14b | 03/15/2012 | 12:43:26 | Power Unit #0x01 | Power off/down | Asserted
+ 14c | 03/15/2012 | 12:43:27 | Voltage #0xdd | Lower Non-critical going low 
+ 14d | 03/15/2012 | 12:43:27 | Voltage #0xdd | Lower Critical going low 
+ 14e | 03/15/2012 | 12:43:31 | Power Unit #0x01 | Power off/down | Deasserted
+ 14f | 03/15/2012 | 12:43:37 | Voltage #0xdd | Lower Non-critical going low 
+ 150 | 03/15/2012 | 12:43:37 | Voltage #0xdd | Lower Critical going low 
+ 151 | 03/15/2012 | 12:43:37 | Voltage #0xdd | Lower Non-critical going low 
+ 152 | 03/15/2012 | 12:43:37 | Voltage #0xdd | Lower Critical going low 
+ 153 | 03/15/2012 | 12:43:39 | Voltage #0xdd | Lower Critical going low 
+ 154 | 03/15/2012 | 12:43:39 | Voltage #0xdd | Lower Non-critical going low 
+ 155 | 03/15/2012 | 12:43:53 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 156 | 03/15/2012 | 12:43:53 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 157 | 03/15/2012 | 12:44:36 | System Firmware Error #0x06 | Unknown Error | Asserted
+ 158 | 03/15/2012 | 12:44:36 | System Firmware Error #0x06 | Unknown Error | Asserted
+ 159 | 03/15/2012 | 12:44:36 | System Firmware Error #0x06 | Unknown Error | Asserted
+ 15a | 03/15/2012 | 12:44:36 | System Firmware Error #0x06 | Unknown Error | Asserted
+ 15b | 03/15/2012 | 12:46:13 | Power Unit #0x01 | Power off/down | Asserted
+ 15c | 03/15/2012 | 12:46:19 | Power Unit #0x01 | Power off/down | Deasserted
+ 15d | 03/15/2012 | 12:46:29 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 15e | 03/15/2012 | 12:46:29 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 15f | 03/15/2012 | 12:46:53 | System Event #0x83 | OEM System boot event | Asserted
+ 160 | 03/20/2012 | 09:51:31 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 161 | 03/20/2012 | 09:51:31 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 162 | 03/20/2012 | 09:52:05 | System Event #0x83 | OEM System boot event | Asserted
+ 163 | 03/22/2012 | 09:54:39 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 164 | 03/22/2012 | 09:54:39 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 165 | 03/22/2012 | 09:55:05 | System Event #0x83 | OEM System boot event | Asserted
+ 166 | 03/22/2012 | 10:23:41 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 167 | 03/22/2012 | 10:23:41 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 168 | 03/22/2012 | 10:24:02 | System Event #0x83 | OEM System boot event | Asserted
+ 169 | 03/23/2012 | 05:17:32 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 16a | 03/23/2012 | 05:17:35 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 16b | 03/23/2012 | 05:17:55 | System Event #0x83 | OEM System boot event | Asserted
+ 16c | 03/29/2012 | 09:18:34 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 16d | 03/29/2012 | 09:18:51 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 16e | 03/29/2012 | 09:19:11 | System Event #0x83 | OEM System boot event | Asserted
+ 16f | 03/30/2012 | 12:26:52 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 170 | 03/30/2012 | 12:26:52 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 171 | 03/30/2012 | 12:27:16 | System Event #0x83 | OEM System boot event | Asserted
+ 172 | 04/01/2012 | 14:02:59 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 173 | 04/01/2012 | 14:02:59 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 174 | 04/01/2012 | 14:03:25 | System Event #0x83 | OEM System boot event | Asserted
+ 175 | 04/05/2012 | 09:11:59 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 176 | 04/05/2012 | 09:12:10 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 177 | 04/05/2012 | 09:12:30 | System Event #0x83 | OEM System boot event | Asserted
+ 178 | 04/12/2012 | 05:46:07 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 179 | 04/12/2012 | 05:46:26 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 17a | 04/12/2012 | 05:46:46 | System Event #0x83 | OEM System boot event | Asserted
+ 17b | 04/12/2012 | 09:28:04 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 17c | 04/12/2012 | 09:28:05 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 17d | 04/12/2012 | 09:28:25 | System Event #0x83 | OEM System boot event | Asserted
+ 17e | 04/19/2012 | 09:18:22 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 17f | 04/19/2012 | 09:18:42 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 180 | 04/19/2012 | 09:19:02 | System Event #0x83 | OEM System boot event | Asserted
+ 181 | 04/26/2012 | 09:08:58 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 182 | 04/26/2012 | 09:08:58 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 183 | 04/26/2012 | 09:09:38 | System Event #0x83 | OEM System boot event | Asserted
+ 184 | 04/30/2012 | 09:29:40 | Power Unit #0x01 | Power off/down | Asserted
+ 185 | 04/30/2012 | 09:29:41 | Voltage #0xdd | Lower Non-critical going low 
+ 186 | 04/30/2012 | 09:29:41 | Voltage #0xdd | Lower Critical going low 
+ 187 | 04/30/2012 | 09:29:47 | Voltage #0xdd | Lower Critical going low 
+ 188 | 04/30/2012 | 09:29:47 | Voltage #0xdd | Lower Non-critical going low 
+ 189 | 04/30/2012 | 10:25:42 | Power Unit #0x01 | Power off/down | Deasserted
+ 18a | 04/30/2012 | 10:25:42 | Button #0x09 | Power Button pressed | Asserted
+ 18b | 04/30/2012 | 10:25:52 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 18c | 04/30/2012 | 10:25:52 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 18d | 04/30/2012 | 10:26:28 | System Event #0x83 | OEM System boot event | Asserted
+ 18e | 05/03/2012 | 09:11:13 | Power Unit #0x01 | Power off/down | Asserted
+ 18f | 05/03/2012 | 09:11:16 | Voltage #0xdd | Lower Non-critical going low 
+ 190 | 05/03/2012 | 09:11:16 | Voltage #0xdd | Lower Critical going low 
+ 191 | 05/03/2012 | 09:11:22 | Voltage #0xdd | Lower Critical going low 
+ 192 | 05/03/2012 | 09:11:22 | Voltage #0xdd | Lower Non-critical going low 
+ 193 | 05/03/2012 | 10:26:17 | Power Unit #0x01 | Power off/down | Deasserted
+ 194 | 05/03/2012 | 10:26:17 | Button #0x09 | Power Button pressed | Asserted
+ 195 | 05/03/2012 | 10:26:27 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 196 | 05/03/2012 | 10:26:27 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 197 | 05/03/2012 | 10:27:00 | System Event #0x83 | OEM System boot event | Asserted
+ 198 | 05/10/2012 | 09:20:21 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 199 | 05/10/2012 | 09:20:21 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 19a | 05/10/2012 | 09:21:00 | System Event #0x83 | OEM System boot event | Asserted
+ 19b | 05/17/2012 | 05:07:40 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 19c | 05/17/2012 | 05:07:40 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 19d | 05/17/2012 | 05:08:19 | System Event #0x83 | OEM System boot event | Asserted
+ 19e | 05/17/2012 | 10:08:55 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 19f | 05/17/2012 | 10:08:55 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1a0 | 05/17/2012 | 10:09:16 | System Event #0x83 | OEM System boot event | Asserted
+ 1a1 | 05/17/2012 | 10:14:20 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1a2 | 05/17/2012 | 10:14:21 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1a3 | 05/17/2012 | 10:14:41 | System Event #0x83 | OEM System boot event | Asserted
+ 1a4 | 05/25/2012 | 14:06:46 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1a5 | 05/25/2012 | 15:07:08 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1a6 | 05/25/2012 | 15:07:08 | Power Unit #0x01 | Power off/down | Asserted
+ 1a7 | 05/28/2012 | 07:21:20 | Power Supply #0x50 | Power Supply AC lost | Asserted
+ 1a8 | 05/28/2012 | 17:35:08 | Power Unit #0x01 | Power off/down | Asserted
+ 1a9 | 05/28/2012 | 17:35:08 | Processor #0x70 | Presence detected | Asserted
+ 1aa | 05/28/2012 | 17:35:08 | Processor #0x71 | Presence detected | Asserted
+ 1ab | 05/28/2012 | 17:35:13 | Power Supply #0x50 | Config Error | Asserted
+ 1ac | 05/28/2012 | 17:35:50 | Physical Security #0x04 | System unplugged from LAN | Asserted
+ 1ad | 05/28/2012 | 17:35:56 | Physical Security #0x04 | System unplugged from LAN | Deasserted
+ 1ae | 05/28/2012 | 17:50:46 | Power Supply #0x50 | Config Error | Deasserted
+ 1af | 05/29/2012 | 12:40:50 | Power Unit #0x01 | Power off/down | Deasserted
+ 1b0 | 05/29/2012 | 12:40:50 | Button #0x09 | Power Button pressed | Asserted
+ 1b1 | 05/29/2012 | 12:41:00 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1b2 | 05/29/2012 | 12:41:00 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1b3 | 05/29/2012 | 12:41:28 | System Event #0x83 | OEM System boot event | Asserted
+ 1b4 | 06/04/2012 | 09:50:57 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1b5 | 06/04/2012 | 09:51:11 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1b6 | 06/04/2012 | 09:51:11 | Power Unit #0x01 | Power off/down | Asserted
+ 1b7 | 06/04/2012 | 10:01:16 | Power Supply #0x50 | Power Supply AC lost | Asserted
+ 1b8 | 09/21/2012 | 11:31:25 | Power Unit #0x01 | Power off/down | Asserted
+ 1b9 | 09/21/2012 | 11:31:25 | Processor #0x70 | Presence detected | Asserted
+ 1ba | 09/21/2012 | 11:31:25 | Processor #0x71 | Presence detected | Asserted
+ 1bb | 09/21/2012 | 11:31:48 | Power Unit #0x01 | Power off/down | Deasserted
+ 1bc | 09/21/2012 | 11:31:48 | Button #0x09 | Power Button pressed | Asserted
+ 1bd | 09/21/2012 | 11:34:48 | Power Supply #0x50 | Power Supply AC lost | Asserted
+ 1be | 09/21/2012 | 11:34:48 | Power Unit #0x01 | Failure detected | Asserted
+ 1bf | 09/21/2012 | 11:34:49 | Power Unit #0x01 | Power off/down | Asserted
+ 1c0 | 09/21/2012 | 11:34:49 | Voltage #0xdd | Lower Non-critical going low 
+ 1c1 | 09/21/2012 | 11:34:49 | Voltage #0xdd | Lower Critical going low 
+ 1c2 | 09/21/2012 | 11:35:21 | Power Unit #0x01 | AC lost | Asserted
+ 1c3 | 09/21/2012 | 11:35:21 | Processor #0x70 | Presence detected | Asserted
+ 1c4 | 09/21/2012 | 11:35:21 | Processor #0x71 | Presence detected | Asserted
+ 1c5 | 09/21/2012 | 11:35:22 | Power Unit #0x01 | AC lost | Deasserted
+ 1c6 | 09/21/2012 | 11:41:58 | Watchdog 2 #0x03 | Hard reset | Asserted
+ 1c7 | 09/21/2012 | 11:41:59 | Power Unit #0x01 | Power off/down | Asserted
+ 1c8 | 09/21/2012 | 11:42:03 | Power Unit #0x01 | Power off/down | Deasserted
+ 1c9 | 09/21/2012 | 11:42:31 | Button #0x09 | Power Button pressed | Asserted
+ 1ca | 09/21/2012 | 11:42:36 | Button #0x09 | Power Button pressed | Asserted
+ 1cb | 09/21/2012 | 11:42:41 | Power Unit #0x01 | Power off/down | Asserted
+ 1cc | 09/21/2012 | 11:42:41 | Voltage #0xdd | Lower Non-critical going low 
+ 1cd | 09/21/2012 | 11:42:41 | Voltage #0xdd | Lower Critical going low 
+ 1ce | 09/21/2012 | 11:42:48 | Voltage #0xdd | Lower Critical going low 
+ 1cf | 09/21/2012 | 11:42:48 | Voltage #0xdd | Lower Non-critical going low 
+ 1d0 | 09/21/2012 | 11:43:36 | Power Supply #0x50 | Power Supply AC lost | Asserted
+ 1d1 | 09/21/2012 | 11:48:30 | Power Unit #0x01 | Power off/down | Asserted
+ 1d2 | 09/21/2012 | 11:48:30 | Processor #0x70 | Presence detected | Asserted
+ 1d3 | 09/21/2012 | 11:48:30 | Processor #0x71 | Presence detected | Asserted
+ 1d4 | 09/21/2012 | 11:50:13 | Power Unit #0x01 | Power off/down | Deasserted
+ 1d5 | 09/21/2012 | 11:50:13 | Button #0x09 | Power Button pressed | Asserted
+ 1d6 | 09/21/2012 | 11:50:26 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1d7 | 09/21/2012 | 11:50:26 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1d8 | 09/21/2012 | 11:50:39 | System Event #0x83 | OEM System boot event | Asserted
+ 1d9 | 09/21/2012 | 13:01:21 | Button #0x09 | Power Button pressed | Asserted
+ 1da | 09/21/2012 | 13:01:28 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1db | 09/21/2012 | 13:01:28 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1dc | 09/21/2012 | 13:01:47 | Unknown #0x17 | 
+ 1dd | 09/21/2012 | 13:01:48 | Button #0x09 | Power Button pressed | Asserted
+ 1de | 09/21/2012 | 13:03:19 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+ 1df | 09/21/2012 | 13:03:19 | Management Subsystem Health #0x10 | Sensor failure | Asserted
+ 1e0 | 09/21/2012 | 13:18:46 | Button #0x09 | Power Button pressed | Asserted
+ 1e1 | 09/21/2012 | 13:18:52 | Button #0x09 | Power Button pressed | Asserted
+ 1e2 | 09/21/2012 | 13:18:56 | Power Unit #0x01 | Power off/down | Asserted
+ 1e3 | 09/21/2012 | 13:18:58 | Voltage #0xdd | Lower Non-critical going low 
+ 1e4 | 09/21/2012 | 13:18:58 | Voltage #0xdd | Lower Critical going low 
+ 1e5 | 09/21/2012 | 13:19:04 | Voltage #0xdd | Lower Critical going low 
+ 1e6 | 09/21/2012 | 13:19:04 | Voltage #0xdd | Lower Non-critical going low 
+ 1e7 | 09/21/2012 | 13:27:57 | Power Unit #0x01 | Power off/down | Deasserted
+ 1e8 | 09/21/2012 | 13:27:57 | Button #0x09 | Power Button pressed | Asserted
+ 1e9 | 09/21/2012 | 13:28:10 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1ea | 09/21/2012 | 13:28:10 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1eb | 09/21/2012 | 13:29:00 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1ec | 09/21/2012 | 13:29:00 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1ed | 09/21/2012 | 13:31:01 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1ee | 09/21/2012 | 13:31:02 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1ef | 09/21/2012 | 13:31:02 | Button #0x09 | Power Button pressed | Asserted
+ 1f0 | 09/21/2012 | 13:31:03 | Power Unit #0x01 | Power off/down | Asserted
+ 1f1 | 09/21/2012 | 13:31:10 | Power Unit #0x01 | Power off/down | Deasserted
+ 1f2 | 09/21/2012 | 13:31:10 | Button #0x09 | Power Button pressed | Asserted
+ 1f3 | 09/21/2012 | 13:31:22 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1f4 | 09/21/2012 | 13:31:23 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1f5 | 09/21/2012 | 13:35:11 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1f6 | 09/21/2012 | 13:35:11 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 1f7 | 09/21/2012 | 13:36:49 | System Event #0x83 | OEM System boot event | Asserted
+ 1f8 | 09/21/2012 | 15:46:08 | Button #0x09 | Power Button pressed | Asserted
+ 1f9 | 09/21/2012 | 16:17:53 | Button #0x09 | Power Button pressed | Asserted
+ 1fa | 09/21/2012 | 16:36:00 | Button #0x09 | Power Button pressed | Asserted
+ 1fb | 09/21/2012 | 16:36:04 | Power Unit #0x01 | Power off/down | Asserted
+ 1fc | 09/21/2012 | 16:36:06 | Button #0x09 | Power Button pressed | Asserted
+ 1fd | 09/21/2012 | 16:36:07 | Voltage #0xdd | Lower Non-critical going low 
+ 1fe | 09/21/2012 | 16:36:07 | Voltage #0xdd | Lower Critical going low 
+ 1ff | 09/21/2012 | 16:36:11 | Power Unit #0x01 | Power off/down | Deasserted
+ 200 | 09/21/2012 | 16:36:13 | Voltage #0xdd | Lower Critical going low 
+ 201 | 09/21/2012 | 16:36:13 | Voltage #0xdd | Lower Non-critical going low 
+ 202 | 09/21/2012 | 16:36:24 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 203 | 09/21/2012 | 16:36:24 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 204 | 09/21/2012 | 16:37:32 | System Event #0x83 | OEM System boot event | Asserted
+ 205 | 09/21/2012 | 16:38:47 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 206 | 09/21/2012 | 16:38:47 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 207 | 09/21/2012 | 16:38:48 | Power Unit #0x01 | Power off/down | Asserted
+ 208 | 09/24/2012 | 09:43:29 | Power Unit #0x01 | Power off/down | Deasserted
+ 209 | 09/24/2012 | 09:43:29 | Button #0x09 | Power Button pressed | Asserted
+ 20a | 09/24/2012 | 09:43:37 | Temperature #0x2e | Upper Non-critical going high
+ 20b | 09/24/2012 | 09:43:38 | Temperature #0x2e | Upper Non-critical going high
+ 20c | 09/24/2012 | 09:43:41 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 20d | 09/24/2012 | 09:43:52 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 20e | 09/24/2012 | 09:45:00 | System Event #0x83 | OEM System boot event | Asserted
+ 20f | 09/24/2012 | 09:53:43 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 210 | 09/24/2012 | 09:53:43 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 211 | 09/24/2012 | 09:55:21 | System Event #0x83 | OEM System boot event | Asserted
+ 212 | 09/24/2012 | 10:13:05 | Physical Security #0x04 | System unplugged from LAN | Asserted
+ 213 | 09/24/2012 | 10:15:09 | Physical Security #0x04 | System unplugged from LAN | Deasserted
+ 214 | 09/24/2012 | 10:49:49 | Button #0x09 | Power Button pressed | Asserted
+ 215 | 09/24/2012 | 10:49:54 | Power Unit #0x01 | Power off/down | Asserted
+ 216 | 09/24/2012 | 10:49:54 | Voltage #0xdd | Lower Non-critical going low 
+ 217 | 09/24/2012 | 10:49:54 | Voltage #0xdd | Lower Critical going low 
+ 218 | 09/24/2012 | 10:49:56 | Button #0x09 | Power Button pressed | Asserted
+ 219 | 09/24/2012 | 10:50:00 | Power Unit #0x01 | Power off/down | Deasserted
+ 21a | 09/24/2012 | 10:50:01 | Voltage #0xdd | Lower Critical going low 
+ 21b | 09/24/2012 | 10:50:01 | Voltage #0xdd | Lower Non-critical going low 
+ 21c | 09/24/2012 | 10:50:13 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 21d | 09/24/2012 | 10:50:14 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 21e | 09/24/2012 | 10:52:13 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 21f | 09/24/2012 | 10:52:13 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 220 | 09/24/2012 | 10:53:24 | System Event #0x83 | OEM System boot event | Asserted
+ 221 | 09/24/2012 | 10:55:28 | Button #0x09 | Power Button pressed | Asserted
+ 222 | 09/24/2012 | 10:55:33 | Power Unit #0x01 | Power off/down | Asserted
+ 223 | 09/24/2012 | 10:55:34 | Voltage #0xdd | Lower Non-critical going low 
+ 224 | 09/24/2012 | 10:55:34 | Voltage #0xdd | Lower Critical going low 
+ 225 | 09/24/2012 | 10:55:40 | Voltage #0xdd | Lower Critical going low 
+ 226 | 09/24/2012 | 10:55:40 | Voltage #0xdd | Lower Non-critical going low 
+ 227 | 09/24/2012 | 12:52:25 | Power Unit #0x01 | Power off/down | Deasserted
+ 228 | 09/24/2012 | 12:52:25 | Button #0x09 | Power Button pressed | Asserted
+ 229 | 09/24/2012 | 12:52:34 | Temperature #0x2e | Upper Non-critical going high
+ 22a | 09/24/2012 | 12:52:35 | Temperature #0x2e | Upper Non-critical going high
+ 22b | 09/24/2012 | 12:52:38 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 22c | 09/24/2012 | 12:52:39 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 22d | 09/24/2012 | 12:53:39 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 22e | 09/24/2012 | 12:53:39 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 22f | 09/24/2012 | 12:54:05 | System Event #0x83 | OEM System boot event | Asserted
+ 230 | 09/24/2012 | 12:55:43 | Button #0x09 | Power Button pressed | Asserted
+ 231 | 09/24/2012 | 12:55:47 | Power Unit #0x01 | Power off/down | Asserted
+ 232 | 09/24/2012 | 12:55:50 | Button #0x09 | Power Button pressed | Asserted
+ 233 | 09/24/2012 | 12:55:50 | Voltage #0xdd | Lower Non-critical going low 
+ 234 | 09/24/2012 | 12:55:50 | Voltage #0xdd | Lower Critical going low 
+ 235 | 09/24/2012 | 12:55:54 | Power Unit #0x01 | Power off/down | Deasserted
+ 236 | 09/24/2012 | 12:55:56 | Voltage #0xdd | Lower Critical going low 
+ 237 | 09/24/2012 | 12:55:56 | Voltage #0xdd | Lower Non-critical going low 
+ 238 | 09/24/2012 | 12:56:06 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 239 | 09/24/2012 | 12:56:07 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 23a | 09/24/2012 | 12:56:32 | System Event #0x83 | OEM System boot event | Asserted
+ 23b | 09/24/2012 | 13:06:41 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 23c | 09/24/2012 | 13:06:41 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 23d | 09/24/2012 | 13:07:07 | System Event #0x83 | OEM System boot event | Asserted
+ 23e | 09/24/2012 | 13:09:34 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 23f | 09/24/2012 | 13:09:34 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 240 | 09/24/2012 | 13:09:59 | System Event #0x83 | OEM System boot event | Asserted
+ 241 | 09/24/2012 | 13:11:25 | Button #0x09 | Reset Button pressed | Asserted
+ 242 | 09/24/2012 | 13:11:35 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 243 | 09/24/2012 | 13:11:36 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 244 | 09/24/2012 | 13:12:00 | System Event #0x83 | OEM System boot event | Asserted
+ 245 | 09/24/2012 | 13:19:23 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 246 | 09/24/2012 | 13:19:23 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 247 | 09/24/2012 | 13:19:49 | System Event #0x83 | OEM System boot event | Asserted
+ 248 | 09/24/2012 | 13:21:37 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 249 | 09/24/2012 | 13:21:37 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 24a | 09/24/2012 | 13:22:02 | System Event #0x83 | OEM System boot event | Asserted
+ 24b | 09/24/2012 | 13:24:27 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 24c | 09/24/2012 | 13:24:28 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 24d | 09/24/2012 | 13:24:53 | System Event #0x83 | OEM System boot event | Asserted
+ 24e | 09/24/2012 | 13:25:34 | Button #0x09 | Reset Button pressed | Asserted
+ 24f | 09/24/2012 | 13:25:44 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 250 | 09/24/2012 | 13:25:44 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 251 | 09/24/2012 | 13:26:09 | System Event #0x83 | OEM System boot event | Asserted
+ 252 | 09/24/2012 | 13:32:13 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 253 | 09/24/2012 | 13:32:13 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 254 | 09/24/2012 | 13:32:38 | System Event #0x83 | OEM System boot event | Asserted
+ 255 | 09/24/2012 | 13:34:38 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 256 | 09/24/2012 | 13:34:38 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 257 | 09/24/2012 | 13:35:03 | System Event #0x83 | OEM System boot event | Asserted
+ 258 | 09/24/2012 | 13:37:41 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 259 | 09/24/2012 | 13:37:42 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 25a | 09/24/2012 | 13:38:07 | System Event #0x83 | OEM System boot event | Asserted
+ 25b | 09/24/2012 | 13:44:44 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 25c | 09/24/2012 | 13:44:44 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 25d | 09/24/2012 | 13:45:10 | System Event #0x83 | OEM System boot event | Asserted
+ 25e | 09/24/2012 | 13:48:43 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 25f | 09/24/2012 | 13:48:43 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 260 | 09/24/2012 | 13:49:09 | System Event #0x83 | OEM System boot event | Asserted
+ 261 | 09/24/2012 | 13:56:38 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 262 | 09/24/2012 | 13:56:38 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 263 | 09/24/2012 | 13:57:03 | System Event #0x83 | OEM System boot event | Asserted
+ 264 | 09/24/2012 | 14:05:56 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 265 | 09/24/2012 | 14:05:56 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 266 | 09/24/2012 | 14:06:20 | System Event #0x83 | OEM System boot event | Asserted
+ 267 | 09/24/2012 | 14:19:23 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 268 | 09/24/2012 | 14:19:24 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 269 | 09/24/2012 | 14:20:34 | System Event #0x83 | OEM System boot event | Asserted
+ 26a | 09/24/2012 | 14:21:01 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 26b | 09/24/2012 | 14:21:02 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 26c | 09/24/2012 | 14:21:53 | System Event #0x83 | OEM System boot event | Asserted
+ 26d | 09/24/2012 | 14:22:20 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 26e | 09/24/2012 | 14:22:20 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 26f | 09/24/2012 | 14:24:46 | System Event #0x83 | OEM System boot event | Asserted
+ 270 | 09/24/2012 | 14:25:38 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 271 | 09/24/2012 | 14:25:38 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 272 | 09/24/2012 | 14:25:38 | Power Unit #0x01 | Power off/down | Asserted
+ 273 | 09/24/2012 | 14:25:38 | Button #0x09 | Power Button pressed | Asserted
+ 274 | 09/24/2012 | 14:25:50 | Power Unit #0x01 | Power off/down | Deasserted
+ 275 | 09/24/2012 | 14:25:50 | Button #0x09 | Power Button pressed | Asserted
+ 276 | 09/24/2012 | 14:26:03 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 277 | 09/24/2012 | 14:26:03 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 278 | 09/24/2012 | 14:26:23 | System Event #0x83 | OEM System boot event | Asserted
+ 279 | 09/24/2012 | 14:26:47 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 27a | 09/24/2012 | 14:26:48 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 27b | 09/24/2012 | 14:26:48 | Button #0x09 | Power Button pressed | Asserted
+ 27c | 09/24/2012 | 14:26:49 | Power Unit #0x01 | Power off/down | Asserted
+ 27d | 09/24/2012 | 14:26:54 | Power Unit #0x01 | Power off/down | Deasserted
+ 27e | 09/24/2012 | 14:26:54 | Button #0x09 | Power Button pressed | Asserted
+ 27f | 09/24/2012 | 14:27:06 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 280 | 09/24/2012 | 14:27:06 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 281 | 09/24/2012 | 14:27:32 | System Event #0x83 | OEM System boot event | Asserted
+ 282 | 09/24/2012 | 14:27:54 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 283 | 09/24/2012 | 14:27:55 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 284 | 09/24/2012 | 14:28:29 | System Event #0x83 | OEM System boot event | Asserted
+ 285 | 09/24/2012 | 14:30:51 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 286 | 09/24/2012 | 14:30:51 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 287 | 09/24/2012 | 14:31:16 | System Event #0x83 | OEM System boot event | Asserted
+ 288 | 09/24/2012 | 14:35:05 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 289 | 09/24/2012 | 14:35:05 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 28a | 09/24/2012 | 14:35:11 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 28b | 09/24/2012 | 14:35:12 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 28c | 09/24/2012 | 14:35:12 | Power Unit #0x01 | Power off/down | Asserted
+ 28d | 09/24/2012 | 14:35:12 | Button #0x09 | Power Button pressed | Asserted
+ 28e | 09/24/2012 | 14:35:25 | Power Unit #0x01 | Power off/down | Deasserted
+ 28f | 09/24/2012 | 14:35:25 | Button #0x09 | Power Button pressed | Asserted
+ 290 | 09/24/2012 | 14:35:37 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 291 | 09/24/2012 | 14:35:37 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 292 | 09/24/2012 | 14:35:57 | System Event #0x83 | OEM System boot event | Asserted
+ 293 | 09/24/2012 | 14:39:01 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 294 | 09/24/2012 | 14:39:01 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 295 | 09/24/2012 | 14:39:22 | System Event #0x83 | OEM System boot event | Asserted
+ 296 | 09/24/2012 | 14:39:40 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 297 | 09/24/2012 | 14:39:41 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 298 | 09/24/2012 | 14:40:22 | System Event #0x83 | OEM System boot event | Asserted
+ 299 | 09/24/2012 | 14:41:11 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 29a | 09/24/2012 | 14:41:11 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 29b | 09/24/2012 | 14:41:41 | System Event #0x83 | OEM System boot event | Asserted
+ 29c | 09/24/2012 | 14:48:37 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 29d | 09/24/2012 | 14:48:38 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 29e | 09/24/2012 | 14:48:58 | System Event #0x83 | OEM System boot event | Asserted
+ 29f | 09/24/2012 | 15:07:33 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2a0 | 09/24/2012 | 15:07:34 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2a1 | 09/24/2012 | 15:07:34 | Power Unit #0x01 | Power off/down | Asserted
+ 2a2 | 09/24/2012 | 15:07:34 | Button #0x09 | Power Button pressed | Asserted
+ 2a3 | 09/24/2012 | 15:07:36 | Button #0x09 | Power Button pressed | Asserted
+ 2a4 | 09/24/2012 | 15:07:39 | Power Unit #0x01 | Power off/down | Deasserted
+ 2a5 | 09/24/2012 | 15:07:52 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2a6 | 09/24/2012 | 15:07:52 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2a7 | 09/24/2012 | 15:08:17 | System Event #0x83 | OEM System boot event | Asserted
+ 2a8 | 09/24/2012 | 15:11:29 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2a9 | 09/24/2012 | 15:11:29 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2aa | 09/24/2012 | 15:11:55 | System Event #0x83 | OEM System boot event | Asserted
+ 2ab | 09/24/2012 | 15:14:38 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2ac | 09/24/2012 | 15:14:38 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2ad | 09/24/2012 | 15:15:03 | System Event #0x83 | OEM System boot event | Asserted
+ 2ae | 09/24/2012 | 15:22:32 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2af | 09/24/2012 | 15:22:32 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2b0 | 09/24/2012 | 15:22:58 | System Event #0x83 | OEM System boot event | Asserted
+ 2b1 | 09/24/2012 | 15:59:53 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2b2 | 09/24/2012 | 15:59:53 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2b3 | 09/24/2012 | 15:59:53 | Power Unit #0x01 | Power off/down | Asserted
+ 2b4 | 09/24/2012 | 15:59:53 | Button #0x09 | Power Button pressed | Asserted
+ 2b5 | 09/24/2012 | 16:00:05 | Power Unit #0x01 | Power off/down | Deasserted
+ 2b6 | 09/24/2012 | 16:00:05 | Button #0x09 | Power Button pressed | Asserted
+ 2b7 | 09/24/2012 | 16:00:13 | Button #0x09 | Power Button pressed | Asserted
+ 2b8 | 09/24/2012 | 16:00:18 | Power Unit #0x01 | Power off/down | Asserted
+ 2b9 | 09/24/2012 | 16:00:18 | Voltage #0xdd | Lower Non-critical going low 
+ 2ba | 09/24/2012 | 16:00:18 | Voltage #0xdd | Lower Critical going low 
+ 2bb | 09/24/2012 | 16:00:20 | Button #0x09 | Power Button pressed | Asserted
+ 2bc | 09/24/2012 | 16:00:24 | Power Unit #0x01 | Power off/down | Deasserted
+ 2bd | 09/24/2012 | 16:00:25 | Button #0x09 | Power Button pressed | Asserted
+ 2be | 09/24/2012 | 16:00:26 | Voltage #0xdd | Lower Critical going low 
+ 2bf | 09/24/2012 | 16:00:26 | Voltage #0xdd | Lower Non-critical going low 
+ 2c0 | 09/24/2012 | 16:00:37 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2c1 | 09/24/2012 | 16:00:38 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2c2 | 09/24/2012 | 16:01:03 | System Event #0x83 | OEM System boot event | Asserted
+ 2c3 | 09/24/2012 | 16:01:20 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2c4 | 09/24/2012 | 16:01:21 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2c5 | 09/24/2012 | 16:01:21 | Button #0x09 | Power Button pressed | Asserted
+ 2c6 | 09/24/2012 | 16:01:21 | Power Unit #0x01 | Power off/down | Asserted
+ 2c7 | 09/24/2012 | 16:02:10 | Button #0x09 | Power Button pressed | Asserted
+ 2c8 | 09/24/2012 | 16:02:11 | Power Unit #0x01 | Power off/down | Deasserted
+ 2c9 | 09/24/2012 | 16:02:24 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2ca | 09/24/2012 | 16:02:24 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2cb | 09/24/2012 | 16:02:47 | System Event #0x83 | OEM System boot event | Asserted
+ 2cc | 09/24/2012 | 16:25:21 | Button #0x09 | Reset Button pressed | Asserted
+ 2cd | 09/24/2012 | 16:25:32 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2ce | 09/24/2012 | 16:25:32 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2cf | 09/24/2012 | 16:26:28 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2d0 | 09/24/2012 | 16:26:28 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2d1 | 09/24/2012 | 16:26:47 | System Event #0x83 | OEM System boot event | Asserted
+ 2d2 | 09/25/2012 | 09:13:42 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2d3 | 09/25/2012 | 09:13:42 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2d4 | 09/25/2012 | 09:13:47 | Power Unit #0x01 | Power off/down | Asserted
+ 2d5 | 09/25/2012 | 09:18:35 | Power Unit #0x01 | Power off/down | Deasserted
+ 2d6 | 09/25/2012 | 09:18:35 | Button #0x09 | Power Button pressed | Asserted
+ 2d7 | 09/25/2012 | 09:18:48 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2d8 | 09/25/2012 | 09:18:49 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2d9 | 09/25/2012 | 09:19:11 | System Event #0x83 | OEM System boot event | Asserted
+ 2da | 09/25/2012 | 09:36:25 | Button #0x09 | Reset Button pressed | Asserted
+ 2db | 09/25/2012 | 09:36:35 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2dc | 09/25/2012 | 09:36:35 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2dd | 09/25/2012 | 09:37:30 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2de | 09/25/2012 | 09:37:30 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2df | 09/25/2012 | 09:37:52 | System Event #0x83 | OEM System boot event | Asserted
+ 2e0 | 09/25/2012 | 09:50:59 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2e1 | 09/25/2012 | 09:50:59 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2e2 | 09/25/2012 | 09:52:01 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2e3 | 09/25/2012 | 09:52:01 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2e4 | 09/25/2012 | 09:52:22 | System Event #0x83 | OEM System boot event | Asserted
+ 2e5 | 09/25/2012 | 09:54:23 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2e6 | 09/25/2012 | 09:54:23 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2e7 | 09/25/2012 | 09:54:25 | Power Unit #0x01 | Power off/down | Asserted
+ 2e8 | 09/25/2012 | 09:54:25 | Button #0x09 | Power Button pressed | Asserted
+ 2e9 | 09/25/2012 | 09:54:29 | Power Unit #0x01 | Power off/down | Deasserted
+ 2ea | 09/25/2012 | 09:54:42 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2eb | 09/25/2012 | 09:54:42 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2ec | 09/25/2012 | 09:55:04 | System Event #0x83 | OEM System boot event | Asserted
+ 2ed | 09/25/2012 | 10:45:59 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2ee | 09/25/2012 | 10:45:59 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2ef | 09/25/2012 | 10:44:37 | System Event #0x83 | OEM System boot event | Asserted
+ 2f0 | 09/25/2012 | 11:47:29 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2f1 | 09/25/2012 | 11:47:29 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2f2 | 09/25/2012 | 11:47:51 | System Event #0x83 | OEM System boot event | Asserted
+ 2f3 | 09/25/2012 | 11:54:56 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2f4 | 09/25/2012 | 11:54:56 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2f5 | 09/25/2012 | 11:55:18 | System Event #0x83 | OEM System boot event | Asserted
+ 2f6 | 09/27/2012 | 10:54:34 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2f7 | 09/27/2012 | 10:54:41 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 2f8 | 09/27/2012 | 10:54:41 | Power Unit #0x01 | Power off/down | Asserted
+ 2f9 | 09/27/2012 | 10:56:41 | Physical Security #0x04 | System unplugged from LAN | Asserted
+ 2fa | 09/27/2012 | 10:56:47 | Power Supply #0x50 | Power Supply AC lost | Asserted
+ 2fb | 09/27/2012 | 11:04:33 | Processor #0x70 | Presence detected | Asserted
+ 2fc | 09/27/2012 | 11:04:33 | Processor #0x71 | Presence detected | Asserted
+ 2fd | 09/27/2012 | 11:04:41 | Temperature #0x2e | Upper Non-critical going high
+ 2fe | 09/27/2012 | 11:04:42 | Temperature #0x2e | Upper Non-critical going high
+ 2ff | 09/27/2012 | 11:04:53 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 300 | 09/27/2012 | 11:04:53 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 301 | 09/27/2012 | 11:05:12 | System Firmware Error #0x06 | Unknown Error | Asserted
+ 302 | 09/27/2012 | 11:05:12 | System Firmware Error #0x06 | Unknown Error | Asserted
+ 303 | 09/27/2012 | 11:05:12 | System Firmware Error #0x06 | Unknown Error | Asserted
+ 304 | 09/27/2012 | 11:05:12 | System Firmware Error #0x06 | Unknown Error | Asserted
+ 305 | 09/27/2012 | 11:05:15 | System Event #0x83 | OEM System boot event | Asserted
+ 306 | 09/27/2012 | 11:06:36 | Button #0x09 | Reset Button pressed | Asserted
+ 307 | 09/27/2012 | 11:06:55 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 308 | 09/27/2012 | 11:06:56 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 309 | 09/27/2012 | 11:07:14 | System Firmware Error #0x06 | Unknown Error | Asserted
+ 30a | 09/27/2012 | 11:07:14 | System Firmware Error #0x06 | Unknown Error | Asserted
+ 30b | 09/27/2012 | 11:07:14 | System Firmware Error #0x06 | Unknown Error | Asserted
+ 30c | 09/27/2012 | 11:07:14 | System Firmware Error #0x06 | Unknown Error | Asserted
+ 30d | 09/27/2012 | 11:08:12 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 30e | 09/27/2012 | 11:08:12 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 30f | 09/27/2012 | 11:08:13 | Power Unit #0x01 | Power off/down | Asserted
+ 310 | 09/27/2012 | 11:08:13 | Button #0x09 | Power Button pressed | Asserted
+ 311 | 09/27/2012 | 11:08:18 | Power Unit #0x01 | Power off/down | Deasserted
+ 312 | 09/27/2012 | 11:08:34 | Power Unit #0x01 | Failure detected | Asserted
+ 313 | 09/27/2012 | 11:08:34 | Power Unit #0x01 | Power off/down | Asserted
+ 314 | 09/27/2012 | 11:08:35 | Power Supply #0x50 | Power Supply AC lost | Asserted
+ 315 | 09/27/2012 | 11:08:36 | Voltage #0xdd | Lower Non-critical going low 
+ 316 | 09/27/2012 | 11:08:36 | Voltage #0xdd | Lower Critical going low 
+ 317 | 09/27/2012 | 11:11:11 | Power Unit #0x01 | AC lost | Asserted
+ 318 | 09/27/2012 | 11:11:11 | Processor #0x70 | Presence detected | Asserted
+ 319 | 09/27/2012 | 11:11:11 | Processor #0x71 | Presence detected | Asserted
+ 31a | 09/27/2012 | 11:11:12 | Power Unit #0x01 | AC lost | Deasserted
+ 31b | 09/27/2012 | 11:11:14 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 31c | 09/27/2012 | 11:11:14 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 31d | 09/27/2012 | 11:11:36 | System Event #0x83 | OEM System boot event | Asserted
+ 31e | 09/27/2012 | 11:12:00 | Button #0x09 | Power Button pressed | Asserted
+ 31f | 09/27/2012 | 11:12:04 | Power Unit #0x01 | Power off/down | Asserted
+ 320 | 09/27/2012 | 11:12:06 | Voltage #0xdd | Lower Non-critical going low 
+ 321 | 09/27/2012 | 11:12:06 | Voltage #0xdd | Lower Critical going low 
+ 322 | 09/27/2012 | 11:12:07 | Button #0x09 | Power Button pressed | Asserted
+ 323 | 09/27/2012 | 11:12:10 | Power Unit #0x01 | Power off/down | Deasserted
+ 324 | 09/27/2012 | 11:12:13 | Voltage #0xdd | Lower Critical going low 
+ 325 | 09/27/2012 | 11:12:13 | Voltage #0xdd | Lower Non-critical going low 
+ 326 | 09/27/2012 | 11:12:25 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 327 | 09/27/2012 | 11:12:25 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 328 | 09/27/2012 | 11:12:47 | System Event #0x83 | OEM System boot event | Asserted
+ 329 | 09/27/2012 | 11:13:09 | Power Unit #0x01 | Failure detected | Asserted
+ 32a | 09/27/2012 | 11:13:10 | Power Unit #0x01 | Power off/down | Asserted
+ 32b | 09/27/2012 | 11:13:10 | Power Supply #0x50 | Power Supply AC lost | Asserted
+ 32c | 09/27/2012 | 11:13:12 | Voltage #0xdd | Lower Non-critical going low 
+ 32d | 09/27/2012 | 11:13:12 | Voltage #0xdd | Lower Critical going low 
+ 32e | 09/27/2012 | 11:13:44 | Power Unit #0x01 | AC lost | Asserted
+ 32f | 09/27/2012 | 11:13:44 | Processor #0x70 | Presence detected | Asserted
+ 330 | 09/27/2012 | 11:13:44 | Processor #0x71 | Presence detected | Asserted
+ 331 | 09/27/2012 | 11:13:45 | Power Unit #0x01 | AC lost | Deasserted
+ 332 | 09/27/2012 | 11:13:53 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 333 | 09/27/2012 | 11:13:54 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 334 | 09/27/2012 | 11:14:16 | System Event #0x83 | OEM System boot event | Asserted
+ 335 | 09/27/2012 | 11:14:26 | Button #0x09 | Reset Button pressed | Asserted
+ 336 | 09/27/2012 | 11:14:37 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 337 | 09/27/2012 | 11:14:37 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 338 | 09/27/2012 | 11:14:58 | Power Unit #0x01 | Failure detected | Asserted
+ 339 | 09/27/2012 | 11:14:58 | Power Unit #0x01 | Power off/down | Asserted
+ 33a | 09/27/2012 | 11:14:58 | Power Supply #0x50 | Power Supply AC lost | Asserted
+ 33b | 09/27/2012 | 11:15:00 | Voltage #0xdd | Lower Non-critical going low 
+ 33c | 09/27/2012 | 11:15:00 | Voltage #0xdd | Lower Critical going low 
+ 33d | 09/27/2012 | 11:17:58 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 33e | 09/27/2012 | 11:17:58 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 33f | 09/27/2012 | 11:17:58 | Power Unit #0x01 | AC lost | Asserted
+ 340 | 09/27/2012 | 11:17:58 | Processor #0x70 | Presence detected | Asserted
+ 341 | 09/27/2012 | 11:17:58 | Processor #0x71 | Presence detected | Asserted
+ 342 | 09/27/2012 | 11:17:59 | Power Unit #0x01 | AC lost | Deasserted
+ 343 | 09/27/2012 | 11:18:06 | Temperature #0x2e | Upper Non-critical going high
+ 344 | 09/27/2012 | 11:18:06 | Temperature #0x2e | Upper Critical going high
+ 345 | 09/27/2012 | 11:18:07 | Temperature #0x2e | Upper Critical going high
+ 346 | 09/27/2012 | 11:18:07 | Temperature #0x2e | Upper Non-critical going high
+ 347 | 09/27/2012 | 11:18:20 | System Event #0x83 | OEM System boot event | Asserted
+ 348 | 09/27/2012 | 11:19:22 | Button #0x09 | Power Button pressed | Asserted
+ 349 | 09/27/2012 | 11:19:23 | Button #0x09 | Reset Button pressed | Asserted
+ 34a | 09/27/2012 | 11:19:32 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 34b | 09/27/2012 | 11:19:33 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 34c | 09/27/2012 | 11:20:20 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 34d | 09/27/2012 | 11:20:20 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 34e | 09/27/2012 | 11:20:41 | System Event #0x83 | OEM System boot event | Asserted
+ 34f | 09/27/2012 | 12:09:29 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 350 | 09/27/2012 | 12:09:30 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 351 | 09/27/2012 | 12:09:30 | Power Unit #0x01 | Power off/down | Asserted
+ 352 | 09/27/2012 | 14:18:40 | Physical Security #0x04 | System unplugged from LAN | Asserted
+ 353 | 09/27/2012 | 14:18:55 | Power Unit #0x01 | Power off/down | Deasserted
+ 354 | 09/27/2012 | 14:18:55 | Button #0x09 | Power Button pressed | Asserted
+ 355 | 09/27/2012 | 14:18:59 | Physical Security #0x04 | System unplugged from LAN | Deasserted
+ 356 | 09/27/2012 | 14:18:59 | Physical Security #0x04 | System unplugged from LAN | Asserted
+ 357 | 09/27/2012 | 14:19:04 | Temperature #0x2e | Upper Non-critical going high
+ 358 | 09/27/2012 | 14:19:04 | Temperature #0x2e | Upper Critical going high
+ 359 | 09/27/2012 | 14:19:06 | Temperature #0x2e | Upper Critical going high
+ 35a | 09/27/2012 | 14:19:07 | Temperature #0x2e | Upper Non-critical going high
+ 35b | 09/27/2012 | 14:19:08 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 35c | 09/27/2012 | 14:19:09 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 35d | 09/27/2012 | 14:19:31 | System Event #0x83 | OEM System boot event | Asserted
+ 35e | 10/02/2012 | 15:38:39 | Button #0x09 | Power Button pressed | Asserted
+ 35f | 10/02/2012 | 15:38:46 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 360 | 10/02/2012 | 15:39:01 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 361 | 10/02/2012 | 15:39:03 | Power Unit #0x01 | Power off/down | Asserted
+ 362 | 10/02/2012 | 16:17:07 | Power Supply #0x50 | Power Supply AC lost | Asserted
+ 363 | 10/02/2012 | 16:19:37 | Processor #0x70 | Presence detected | Asserted
+ 364 | 10/02/2012 | 16:19:37 | Processor #0x71 | Presence detected | Asserted
+ 365 | 10/02/2012 | 16:19:38 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 366 | 10/02/2012 | 16:19:39 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 367 | 10/02/2012 | 16:20:01 | System Event #0x83 | OEM System boot event | Asserted
+ 368 | 10/02/2012 | 16:22:55 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 369 | 10/02/2012 | 16:22:55 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 36a | 10/02/2012 | 16:23:16 | System Event #0x83 | OEM System boot event | Asserted
+ 36b | 10/03/2012 | 11:33:51 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 36c | 10/03/2012 | 11:33:54 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 36d | 10/03/2012 | 11:35:07 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 36e | 10/03/2012 | 11:35:07 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 36f | 10/03/2012 | 11:35:07 | Power Unit #0x01 | Failure detected | Asserted
+ 370 | 10/03/2012 | 11:35:08 | Power Unit #0x01 | Power off/down | Asserted
+ 371 | 10/03/2012 | 11:35:08 | Power Supply #0x50 | Power Supply AC lost | Asserted
+ 372 | 10/03/2012 | 11:35:09 | Voltage #0xdd | Lower Non-critical going low 
+ 373 | 10/03/2012 | 11:35:09 | Voltage #0xdd | Lower Critical going low 
+ 374 | 10/03/2012 | 11:38:19 | Power Unit #0x01 | AC lost | Asserted
+ 375 | 10/03/2012 | 11:38:19 | Processor #0x70 | Presence detected | Asserted
+ 376 | 10/03/2012 | 11:38:19 | Processor #0x71 | Presence detected | Asserted
+ 377 | 10/03/2012 | 11:38:20 | Power Unit #0x01 | AC lost | Deasserted
+ 378 | 10/03/2012 | 11:38:39 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 379 | 10/03/2012 | 11:38:39 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 37a | 10/03/2012 | 11:39:42 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 37b | 10/03/2012 | 11:39:43 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 37c | 10/03/2012 | 11:40:04 | System Event #0x83 | OEM System boot event | Asserted
+ 37d | 10/03/2012 | 11:43:26 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 37e | 10/03/2012 | 11:43:26 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 37f | 10/03/2012 | 11:43:47 | System Event #0x83 | OEM System boot event | Asserted
+ 380 | 10/18/2012 | 11:42:05 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 381 | 10/18/2012 | 11:42:05 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 382 | 10/18/2012 | 11:42:48 | Power Unit #0x01 | Power off/down | Asserted
+ 383 | 10/18/2012 | 11:43:05 | Power Supply #0x50 | Power Supply AC lost | Asserted
+ 384 | 10/18/2012 | 11:46:45 | Processor #0x70 | Presence detected | Asserted
+ 385 | 10/18/2012 | 11:46:45 | Processor #0x71 | Presence detected | Asserted
+ 386 | 10/18/2012 | 11:46:59 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 387 | 10/18/2012 | 11:47:00 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 388 | 10/18/2012 | 11:47:29 | System Event #0x83 | OEM System boot event | Asserted
+ 389 | 10/18/2012 | 11:49:58 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 38a | 10/18/2012 | 11:49:58 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 38b | 10/18/2012 | 11:50:26 | System Event #0x83 | OEM System boot event | Asserted
+ 38c | 12/10/2012 | 16:21:46 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 38d | 12/10/2012 | 15:24:15 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 38e | 12/10/2012 | 15:24:43 | System Event #0x83 | OEM System boot event | Asserted
+ 38f | 12/10/2012 | 15:38:53 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 390 | 12/10/2012 | 15:38:54 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 391 | 12/10/2012 | 15:39:22 | System Event #0x83 | OEM System boot event | Asserted
+ 392 | 12/26/2012 | 08:28:08 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 393 | 12/26/2012 | 08:28:08 | System Event #0x83 | Timestamp Clock Sync | Asserted
+ 394 | 12/26/2012 | 08:29:20 | System Event #0x83 | OEM System boot event | Asserted
+ipmitool version 1.8.11

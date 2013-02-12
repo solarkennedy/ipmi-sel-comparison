@@ -1,3 +1,8 @@
+About
+=====
+There are lots of different ways to get the System Event Logs (SEL) out of a
+server. Which way will give you the information you actually need?
+
 Prerequisites
 =============
 * [ipmiutil](http://ipmiutil.sourceforge.net/)
